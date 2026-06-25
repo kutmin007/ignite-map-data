@@ -10,8 +10,8 @@
       "address": "г. Москва, улица Красная Пресня, 46 стр.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.762971,
+      "lng": 37.564482,
       "sourceSheet": "МосТабак",
       "sourceRow": 2
     },
@@ -25,8 +25,8 @@
       "address": "г. Москва, шоссе Энтузиастов, 13",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.751614,
+      "lng": 37.714968,
       "sourceSheet": "МосТабак",
       "sourceRow": 3
     },
@@ -40,8 +40,8 @@
       "address": "г. Москва, улица Автозаводская, 13/1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.705797,
+      "lng": 37.656353,
       "sourceSheet": "МосТабак",
       "sourceRow": 4
     },
@@ -55,8 +55,8 @@
       "address": "г. Москва, улица Академика Янгеля, 2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.596457,
+      "lng": 37.599822,
       "sourceSheet": "МосТабак",
       "sourceRow": 5
     },
@@ -70,8 +70,8 @@
       "address": "г. Москва, улица Профсоюзная, 1/24",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.686858,
+      "lng": 37.573258,
       "sourceSheet": "МосТабак",
       "sourceRow": 6
     },
@@ -85,8 +85,8 @@
       "address": "г. Москва, проспект Мира, 114Б",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.808164,
+      "lng": 37.638377,
       "sourceSheet": "МосТабак",
       "sourceRow": 7
     },
@@ -100,8 +100,8 @@
       "address": "г. Москва, улица Алтуфьевское шоссе, 86 кор.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.897791,
+      "lng": 37.588233,
       "sourceSheet": "МосТабак",
       "sourceRow": 8
     },
@@ -115,8 +115,8 @@
       "address": "г. Москва, Очаковское шоссе, 5 кор.4",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.694145,
+      "lng": 37.462361,
       "sourceSheet": "МосТабак",
       "sourceRow": 9
     },
@@ -130,8 +130,8 @@
       "address": "г. Москва, улица Арбат, 25/36",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.750241,
+      "lng": 37.594764,
       "sourceSheet": "МосТабак",
       "sourceRow": 10
     },
@@ -145,8 +145,8 @@
       "address": "г. Москва, улица Новый Арбат, 3 стр.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.752673,
+      "lng": 37.598492,
       "sourceSheet": "МосТабак",
       "sourceRow": 11
     },
@@ -160,8 +160,8 @@
       "address": "г. Москва, Багратионовский проезд, 7 кор.20В",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.743527,
+      "lng": 37.505499,
       "sourceSheet": "МосТабак",
       "sourceRow": 12
     },
@@ -175,8 +175,8 @@
       "address": "Московская область, г. Балашиха, мкр. Железнодорожный, улица Пролетарская, 1/2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.749719,
+      "lng": 38.009597,
       "sourceSheet": "МосТабак",
       "sourceRow": 13
     },
@@ -190,8 +190,8 @@
       "address": "Московская область, мкр. Железнодорожный, улица Советская, стр.1Б",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.751305,
+      "lng": 38.00789,
       "sourceSheet": "МосТабак",
       "sourceRow": 14
     },
@@ -205,8 +205,8 @@
       "address": "Московская область, г. Балашиха, мкр. Кучино, улица Центральная, 40",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.751437,
+      "lng": 37.955824,
       "sourceSheet": "МосТабак",
       "sourceRow": 15
     },
@@ -220,8 +220,8 @@
       "address": "Московская область, г. Балашиха, улица Советская, вл. 4Б",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.797169,
+      "lng": 37.934776,
       "sourceSheet": "МосТабак",
       "sourceRow": 16
     },
@@ -235,8 +235,8 @@
       "address": "г. Москва, улица Фридриха Энгельса, 7-21",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.772137,
+      "lng": 37.681622,
       "sourceSheet": "МосТабак",
       "sourceRow": 17
     },
@@ -250,8 +250,8 @@
       "address": "г. Москва, улица Бауманская, 33/2-4 стр.9",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.772482,
+      "lng": 37.678793,
       "sourceSheet": "МосТабак",
       "sourceRow": 18
     },
@@ -265,8 +265,8 @@
       "address": "г. Москва, Ленинградский проспект, 1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.777753,
+      "lng": 37.580409,
       "sourceSheet": "МосТабак",
       "sourceRow": 19
     },
@@ -280,8 +280,8 @@
       "address": "г. Москва, улица Грузинский Вал, 28/45",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.774907,
+      "lng": 37.582906,
       "sourceSheet": "МосТабак",
       "sourceRow": 20
     },
@@ -295,8 +295,8 @@
       "address": "г. Москва, улица Миклухо-Маклая, 43",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.644105,
+      "lng": 37.523779,
       "sourceSheet": "МосТабак",
       "sourceRow": 21
     },
@@ -310,8 +310,8 @@
       "address": "г. Москва, улица Профсоюзная, 102, стр.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.643632,
+      "lng": 37.526259,
       "sourceSheet": "МосТабак",
       "sourceRow": 22
     },
@@ -325,8 +325,8 @@
       "address": "г. Москва, улица Братиславская, 14, ТЦ Волна",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.659124,
+      "lng": 37.755015,
       "sourceSheet": "МосТабак",
       "sourceRow": 23
     },
@@ -334,14 +334,14 @@
       "id": "mostabak-023",
       "network": "МосТабак",
       "title": "МосТабак — Брянск Авиационная 28",
-      "city": "",
-      "region": "",
+      "city": "Брянск",
+      "region": "Брянская область",
       "district": "",
       "address": "г. Брянск, улица Авиационная, 28",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 53.260118,
+      "lng": 34.32637,
       "sourceSheet": "МосТабак",
       "sourceRow": 24
     },
@@ -349,14 +349,14 @@
       "id": "mostabak-024",
       "network": "МосТабак",
       "title": "МосТабак — Брянск Ленина 12",
-      "city": "",
-      "region": "",
+      "city": "Брянск",
+      "region": "Брянская область",
       "district": "",
       "address": "г. Брянск, проспект Ленина, 12",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 53.238377,
+      "lng": 34.358646,
       "sourceSheet": "МосТабак",
       "sourceRow": 25
     },
@@ -364,14 +364,14 @@
       "id": "mostabak-025",
       "network": "МосТабак",
       "title": "МосТабак — Брянск Московский 32А",
-      "city": "",
-      "region": "",
+      "city": "Брянск",
+      "region": "Брянская область",
       "district": "",
       "address": "г. Брянск, Московский проспект, 32А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 53.21688,
+      "lng": 34.401864,
       "sourceSheet": "МосТабак",
       "sourceRow": 26
     },
@@ -379,14 +379,14 @@
       "id": "mostabak-026",
       "network": "МосТабак",
       "title": "МосТабак — Брянск Ново-Советская 87",
-      "city": "",
-      "region": "",
+      "city": "Брянск",
+      "region": "Брянская область",
       "district": "",
       "address": "г. Брянск, улица Ново-Советская, 87/19",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 53.327073,
+      "lng": 34.283242,
       "sourceSheet": "МосТабак",
       "sourceRow": 27
     },
@@ -394,14 +394,14 @@
       "id": "mostabak-027",
       "network": "МосТабак",
       "title": "МосТабак — Брянск Ульянова 58Б",
-      "city": "",
-      "region": "",
+      "city": "Брянск",
+      "region": "Брянская область",
       "district": "",
       "address": "г. Брянск, улица Ульянова, 58Б",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 53.313744,
+      "lng": 34.306688,
       "sourceSheet": "МосТабак",
       "sourceRow": 28
     },
@@ -415,8 +415,8 @@
       "address": "Московская область, Расторгуевское шоссе, 8/22",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.546053,
+      "lng": 37.58588,
       "sourceSheet": "МосТабак",
       "sourceRow": 29
     },
@@ -430,8 +430,8 @@
       "address": "г. Москва, улица Варшавское шоссе, 78/2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.480954,
+      "lng": 37.445482,
       "sourceSheet": "МосТабак",
       "sourceRow": 30
     },
@@ -445,8 +445,8 @@
       "address": "г. Москва, Варшавское шоссе, 87",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.652938,
+      "lng": 37.620698,
       "sourceSheet": "МосТабак",
       "sourceRow": 31
     },
@@ -460,8 +460,8 @@
       "address": "г. Москва, проспект Мира, 146",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.820642,
+      "lng": 37.642042,
       "sourceSheet": "МосТабак",
       "sourceRow": 32
     },
@@ -475,8 +475,8 @@
       "address": "Московская область, г. Видное, улица Березовая, 3Б/2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.544815,
+      "lng": 37.720313,
       "sourceSheet": "МосТабак",
       "sourceRow": 33
     },
@@ -484,14 +484,14 @@
       "id": "mostabak-033",
       "network": "МосТабак",
       "title": "МосТабак — Владимир Гагарина 3",
-      "city": "",
-      "region": "",
+      "city": "Владимир",
+      "region": "Владимирская область",
       "district": "",
       "address": "г. Владимир, улица Гагарина, 3",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.129123,
+      "lng": 40.404039,
       "sourceSheet": "МосТабак",
       "sourceRow": 34
     },
@@ -505,8 +505,8 @@
       "address": "г. Москва, Кронштадтский бульвар, 3 стр.13",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.839648,
+      "lng": 37.486652,
       "sourceSheet": "МосТабак",
       "sourceRow": 35
     },
@@ -520,8 +520,8 @@
       "address": "г. Москва, Кронштадтский бульвар, 7, ТЦ «Крона»",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.840902,
+      "lng": 37.487406,
       "sourceSheet": "МосТабак",
       "sourceRow": 36
     },
@@ -535,8 +535,8 @@
       "address": "г. Москва, 2-й Войковский проезд, 2/11",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.817633,
+      "lng": 37.496848,
       "sourceSheet": "МосТабак",
       "sourceRow": 37
     },
@@ -550,8 +550,8 @@
       "address": "г. Москва, площадь Ганецкого, 1Б",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.820349,
+      "lng": 37.499309,
       "sourceSheet": "МосТабак",
       "sourceRow": 38
     },
@@ -565,8 +565,8 @@
       "address": "г. Москва, улица Горчакова, 11",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.543664,
+      "lng": 37.532008,
       "sourceSheet": "МосТабак",
       "sourceRow": 39
     },
@@ -580,8 +580,8 @@
       "address": "г. Москва, Ленинградский проспект, 33 кор.3",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.787032,
+      "lng": 37.560781,
       "sourceSheet": "МосТабак",
       "sourceRow": 40
     },
@@ -595,8 +595,8 @@
       "address": "Московская область, г. Дмитров, Вокзальный переулок, 2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.336957,
+      "lng": 37.511356,
       "sourceSheet": "МосТабак",
       "sourceRow": 41
     },
@@ -610,8 +610,8 @@
       "address": "г. Москва, улица Бутырская, 86Б",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.808053,
+      "lng": 37.582969,
       "sourceSheet": "МосТабак",
       "sourceRow": 42
     },
@@ -625,8 +625,8 @@
       "address": "Московская область, г. Долгопрудный, Рыночная площадь, 9",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.939519,
+      "lng": 37.519503,
       "sourceSheet": "МосТабак",
       "sourceRow": 43
     },
@@ -640,8 +640,8 @@
       "address": "Московская область, г. Домодедово, Привокзальная площадь, 1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.439845,
+      "lng": 37.772684,
       "sourceSheet": "МосТабак",
       "sourceRow": 44
     },
@@ -655,8 +655,8 @@
       "address": "г. Москва, Ореховый бульвар, 14 кор.1А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.610311,
+      "lng": 37.715758,
       "sourceSheet": "МосТабак",
       "sourceRow": 45
     },
@@ -670,8 +670,8 @@
       "address": "Московская область, г. Дубна, проспект Боголюбова, 19",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.735659,
+      "lng": 37.160096,
       "sourceSheet": "МосТабак",
       "sourceRow": 46
     },
@@ -685,8 +685,8 @@
       "address": "г. Москва, улица Шарикоподшипниковская, 32",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.716392,
+      "lng": 37.676214,
       "sourceSheet": "МосТабак",
       "sourceRow": 47
     },
@@ -694,14 +694,14 @@
       "id": "mostabak-047",
       "network": "МосТабак",
       "title": "МосТабак — Железногорск Ленина 37",
-      "city": "",
-      "region": "",
+      "city": "Железногорск",
+      "region": "Курская область",
       "district": "",
       "address": "Курская область, г. Железногорск, улица Ленина, 37",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 52.336914,
+      "lng": 35.351725,
       "sourceSheet": "МосТабак",
       "sourceRow": 48
     },
@@ -709,14 +709,14 @@
       "id": "mostabak-048",
       "network": "МосТабак",
       "title": "МосТабак — Железногорск Ленина 57",
-      "city": "",
-      "region": "",
+      "city": "Железногорск",
+      "region": "Курская область",
       "district": "",
       "address": "Курская область, г. Железногорск, улица Ленина, 57",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 52.348881,
+      "lng": 35.344323,
       "sourceSheet": "МосТабак",
       "sourceRow": 49
     },
@@ -730,8 +730,8 @@
       "address": "Московская область, г. Жуковский, Московская площадь, 1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.60161,
+      "lng": 38.134849,
       "sourceSheet": "МосТабак",
       "sourceRow": 50
     },
@@ -745,8 +745,8 @@
       "address": "Московская область, г. Звенигород, улица Московская, 16",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.729823,
+      "lng": 36.856205,
       "sourceSheet": "МосТабак",
       "sourceRow": 51
     },
@@ -760,8 +760,8 @@
       "address": "г. Москва, г. Зеленоград, Крюковская площадь, 1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.982668,
+      "lng": 37.175008,
       "sourceSheet": "МосТабак",
       "sourceRow": 52
     },
@@ -775,8 +775,8 @@
       "address": "г. Москва, улица 3-я Парковая, 4",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.789026,
+      "lng": 37.784668,
       "sourceSheet": "МосТабак",
       "sourceRow": 53
     },
@@ -790,8 +790,8 @@
       "address": "г. Казань, улица Баумана, 49/10 КАЗАН ШӘҺӘРЕ, БАУМАН УРАМЫ, 49/10 ЙОРТ",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.787908,
+      "lng": 49.120985,
       "sourceSheet": "МосТабак",
       "sourceRow": 54
     },
@@ -805,8 +805,8 @@
       "address": "г. Казань, улица Рихарда Зорге, 66 КАЗАН ШӘҺӘРЕ, РИХАРД ЗОРГЕ УРАМЫ, 66 ЙОРТ",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.747976,
+      "lng": 49.210394,
       "sourceSheet": "МосТабак",
       "sourceRow": 55
     },
@@ -820,8 +820,8 @@
       "address": "г. Казань, улица Декабристов, 150 КАЗАН ШӘҺӘРЕ, ДЕКАБРИСТЛАР УРАМЫ, 150 ЙОРТ",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.830053,
+      "lng": 49.081755,
       "sourceSheet": "МосТабак",
       "sourceRow": 56
     },
@@ -835,8 +835,8 @@
       "address": "г. Москва, Пролетарский проспект, 23А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.6372,
+      "lng": 37.655975,
       "sourceSheet": "МосТабак",
       "sourceRow": 57
     },
@@ -850,8 +850,8 @@
       "address": "г. Москва, улица Маросейка, 9/2 стр.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.757769,
+      "lng": 37.634371,
       "sourceSheet": "МосТабак",
       "sourceRow": 58
     },
@@ -865,8 +865,8 @@
       "address": "г. Москва, Солянский тупик, 1/4 стр. 1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.753838,
+      "lng": 37.636033,
       "sourceSheet": "МосТабак",
       "sourceRow": 59
     },
@@ -880,8 +880,8 @@
       "address": "Московская область, г. Клин, улица Новоямская, 32",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.333923,
+      "lng": 36.713337,
       "sourceSheet": "МосТабак",
       "sourceRow": 60
     },
@@ -895,8 +895,8 @@
       "address": "г. Москва, улица Южнопортовая, 18",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.706218,
+      "lng": 37.684721,
       "sourceSheet": "МосТабак",
       "sourceRow": 61
     },
@@ -910,8 +910,8 @@
       "address": "г. Москва, проспект Андропова, 25А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.677626,
+      "lng": 37.664914,
       "sourceSheet": "МосТабак",
       "sourceRow": 62
     },
@@ -925,8 +925,8 @@
       "address": "Московская область, г. Коломна, улица Октябрьской Революции, 362 стр.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.084137,
+      "lng": 38.801974,
       "sourceSheet": "МосТабак",
       "sourceRow": 63
     },
@@ -940,8 +940,8 @@
       "address": "г. Москва, улица Профсоюзная, 109 кор.2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.632382,
+      "lng": 37.519557,
       "sourceSheet": "МосТабак",
       "sourceRow": 64
     },
@@ -955,8 +955,8 @@
       "address": "Московская область, г. Королёв, улица Исаева, 1В",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.924431,
+      "lng": 37.859004,
       "sourceSheet": "МосТабак",
       "sourceRow": 65
     },
@@ -970,8 +970,8 @@
       "address": "Московская область, г. Королев, улица Космонавта Стрекалова, 2Б",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.925026,
+      "lng": 37.816944,
       "sourceSheet": "МосТабак",
       "sourceRow": 66
     },
@@ -985,8 +985,8 @@
       "address": "Московская область, г. Котельники, улица Сосновая, 5 кор.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.673945,
+      "lng": 37.857117,
       "sourceSheet": "МосТабак",
       "sourceRow": 67
     },
@@ -1000,8 +1000,8 @@
       "address": "г. Москва, улица Верхняя Красносельская, 38/19 стр.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.779565,
+      "lng": 37.665605,
       "sourceSheet": "МосТабак",
       "sourceRow": 68
     },
@@ -1015,8 +1015,8 @@
       "address": "г. Москва, улица Воронцовская, 48",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.732712,
+      "lng": 37.664069,
       "sourceSheet": "МосТабак",
       "sourceRow": 69
     },
@@ -1030,8 +1030,8 @@
       "address": "г. Москва, Осенний бульвар, 7 кор.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.757794,
+      "lng": 37.406944,
       "sourceSheet": "МосТабак",
       "sourceRow": 70
     },
@@ -1045,8 +1045,8 @@
       "address": "г. Москва, улица Рождественка, 6/9/20 стр.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.761431,
+      "lng": 37.623816,
       "sourceSheet": "МосТабак",
       "sourceRow": 71
     },
@@ -1060,8 +1060,8 @@
       "address": "г. Москва, улица Маршала Чуйкова, 4",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.704362,
+      "lng": 37.76362,
       "sourceSheet": "МосТабак",
       "sourceRow": 72
     },
@@ -1075,8 +1075,8 @@
       "address": "Московская область, Орехово-Зуевский район, г. Куровское, улица Вокзальная, вл. 17",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.574202,
+      "lng": 38.923875,
       "sourceSheet": "МосТабак",
       "sourceRow": 73
     },
@@ -1084,14 +1084,14 @@
       "id": "mostabak-073",
       "network": "МосТабак",
       "title": "МосТабак — Курск Дзержинского 25",
-      "city": "",
-      "region": "",
+      "city": "Курск",
+      "region": "Курская область",
       "district": "",
       "address": "г. Курск, улица Дзержинского, 25 кор.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.727617,
+      "lng": 36.185433,
       "sourceSheet": "МосТабак",
       "sourceRow": 74
     },
@@ -1099,14 +1099,14 @@
       "id": "mostabak-074",
       "network": "МосТабак",
       "title": "МосТабак — Курск Ленина 60А",
-      "city": "",
-      "region": "",
+      "city": "Курск",
+      "region": "Курская область",
       "district": "",
       "address": "г. Курск, улица Ленина, 60А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.741433,
+      "lng": 36.193293,
       "sourceSheet": "МосТабак",
       "sourceRow": 75
     },
@@ -1120,8 +1120,8 @@
       "address": "г. Москва, Нижний Сусальный переулок, 5 стр.2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.760413,
+      "lng": 37.662326,
       "sourceSheet": "МосТабак",
       "sourceRow": 76
     },
@@ -1135,8 +1135,8 @@
       "address": "г. Москва, улица Земляной вал, 27 стр. 2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.75864,
+      "lng": 37.658958,
       "sourceSheet": "МосТабак",
       "sourceRow": 77
     },
@@ -1150,8 +1150,8 @@
       "address": "г. Москва, Ленинский проспект, 37А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.708628,
+      "lng": 37.586634,
       "sourceSheet": "МосТабак",
       "sourceRow": 78
     },
@@ -1159,14 +1159,14 @@
       "id": "mostabak-078",
       "network": "МосТабак",
       "title": "МосТабак — Липецк Победы 72",
-      "city": "",
-      "region": "",
+      "city": "Липецк",
+      "region": "Липецкая область",
       "district": "",
       "address": "г. Липецк, проспект Победы, 72",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 52.594764,
+      "lng": 39.56326,
       "sourceSheet": "МосТабак",
       "sourceRow": 79
     },
@@ -1180,8 +1180,8 @@
       "address": "г. Москва, Мичуринский проспект, 3",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.704408,
+      "lng": 37.512721,
       "sourceSheet": "МосТабак",
       "sourceRow": 80
     },
@@ -1195,8 +1195,8 @@
       "address": "г. Москва, улица Никольская, 25",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.759122,
+      "lng": 37.624777,
       "sourceSheet": "МосТабак",
       "sourceRow": 81
     },
@@ -1210,8 +1210,8 @@
       "address": "Московская область, г. Люберцы, улица Инициативная, 14 стр.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.683011,
+      "lng": 37.897514,
       "sourceSheet": "МосТабак",
       "sourceRow": 82
     },
@@ -1225,8 +1225,8 @@
       "address": "г. Москва, улица Садовая-Триумфальная, 22/31",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.77191,
+      "lng": 37.604062,
       "sourceSheet": "МосТабак",
       "sourceRow": 83
     },
@@ -1240,8 +1240,8 @@
       "address": "г. Москва, улица Новослободская, 20",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.782537,
+      "lng": 37.598717,
       "sourceSheet": "МосТабак",
       "sourceRow": 84
     },
@@ -1255,8 +1255,8 @@
       "address": "г. Москва, улица Митинская, 29",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.846947,
+      "lng": 37.357348,
       "sourceSheet": "МосТабак",
       "sourceRow": 85
     },
@@ -1270,8 +1270,8 @@
       "address": "г. Москва, улица Дубравная, вл. 33",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.845178,
+      "lng": 37.359477,
       "sourceSheet": "МосТабак",
       "sourceRow": 86
     },
@@ -1285,8 +1285,8 @@
       "address": "г. Москва, улица Ярцевская, 23А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.740654,
+      "lng": 37.415164,
       "sourceSheet": "МосТабак",
       "sourceRow": 87
     },
@@ -1300,8 +1300,8 @@
       "address": "Московская область, г. Мытищи, улица Колонцова, 5 стр.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.914216,
+      "lng": 37.763396,
       "sourceSheet": "МосТабак",
       "sourceRow": 88
     },
@@ -1315,8 +1315,8 @@
       "address": "Московская область, г. Мытищи, улица Селезнева, 37Д",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.891052,
+      "lng": 37.727149,
       "sourceSheet": "МосТабак",
       "sourceRow": 89
     },
@@ -1330,8 +1330,8 @@
       "address": "Московская область, г. Наро-Фоминск, улица Полубоярова, 24",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.383776,
+      "lng": 36.751462,
       "sourceSheet": "МосТабак",
       "sourceRow": 90
     },
@@ -1345,8 +1345,8 @@
       "address": "г. Москва, Свободный проспект, 20А, ТЦ ОЛИМП",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.751264,
+      "lng": 37.816343,
       "sourceSheet": "МосТабак",
       "sourceRow": 91
     },
@@ -1360,8 +1360,8 @@
       "address": "г. Москва, Зелёный проспект, 79А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.75206,
+      "lng": 37.816226,
       "sourceSheet": "МосТабак",
       "sourceRow": 92
     },
@@ -1375,8 +1375,8 @@
       "address": "г. Москва, улица Новокосинская, 22, ТЦ МиГ",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.740026,
+      "lng": 37.861142,
       "sourceSheet": "МосТабак",
       "sourceRow": 93
     },
@@ -1390,8 +1390,8 @@
       "address": "г. Москва, улица Суздальская, 30/2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.743725,
+      "lng": 37.863459,
       "sourceSheet": "МосТабак",
       "sourceRow": 94
     },
@@ -1405,8 +1405,8 @@
       "address": "г. Москва, Пятницкий переулок, 8 стр.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.742894,
+      "lng": 37.629754,
       "sourceSheet": "МосТабак",
       "sourceRow": 95
     },
@@ -1420,8 +1420,8 @@
       "address": "Московская область, Богородский городской район, г. Ногинск, улица Комсомольская, ЗУ 28д",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.851904,
+      "lng": 38.443744,
       "sourceSheet": "МосТабак",
       "sourceRow": 96
     },
@@ -1435,8 +1435,8 @@
       "address": "Московская область, г. Одинцово, улица Советская, 1Б",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.671935,
+      "lng": 37.279375,
       "sourceSheet": "МосТабак",
       "sourceRow": 97
     },
@@ -1450,8 +1450,8 @@
       "address": "г. Москва, ул. Марашала Бирюзова, 16",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.794578,
+      "lng": 37.492042,
       "sourceSheet": "МосТабак",
       "sourceRow": 98
     },
@@ -1465,8 +1465,8 @@
       "address": "г. Москва, улица Народного Ополчения, 46 кор.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.792954,
+      "lng": 37.493623,
       "sourceSheet": "МосТабак",
       "sourceRow": 99
     },
@@ -1474,14 +1474,14 @@
       "id": "mostabak-099",
       "network": "МосТабак",
       "title": "МосТабак — Орел Комсомольская 15",
-      "city": "",
-      "region": "",
+      "city": "Орел",
+      "region": "Орловская область",
       "district": "",
       "address": "г. Орел, улица Комсомольская, 15",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 52.961009,
+      "lng": 36.067098,
       "sourceSheet": "МосТабак",
       "sourceRow": 100
     },
@@ -1489,14 +1489,14 @@
       "id": "mostabak-100",
       "network": "МосТабак",
       "title": "МосТабак — Орел Металлургов 15Б",
-      "city": "",
-      "region": "",
+      "city": "Орел",
+      "region": "Орловская область",
       "district": "",
       "address": "г. Орел, улица Металлургов, 15Б",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 53.013149,
+      "lng": 36.141991,
       "sourceSheet": "МосТабак",
       "sourceRow": 101
     },
@@ -1504,14 +1504,14 @@
       "id": "mostabak-101",
       "network": "МосТабак",
       "title": "МосТабак — Орел Мира 5",
-      "city": "",
-      "region": "",
+      "city": "Орёл",
+      "region": "Орловская область",
       "district": "",
       "address": "г. Орёл, площадь Мира, 5",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 52.968131,
+      "lng": 36.076809,
       "sourceSheet": "МосТабак",
       "sourceRow": 102
     },
@@ -1525,8 +1525,8 @@
       "address": "г. Москва, Шипиловский проезд, вл39 кор.3А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.612406,
+      "lng": 37.697648,
       "sourceSheet": "МосТабак",
       "sourceRow": 103
     },
@@ -1540,8 +1540,8 @@
       "address": "Московская область, г. Орехово-Зуево, улица Бирюкова, 41А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.81256,
+      "lng": 38.967668,
       "sourceSheet": "МосТабак",
       "sourceRow": 104
     },
@@ -1555,8 +1555,8 @@
       "address": "Московская область, г. Орехово-Зуево, улица Ленина, 19",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.797518,
+      "lng": 38.974909,
       "sourceSheet": "МосТабак",
       "sourceRow": 105
     },
@@ -1570,8 +1570,8 @@
       "address": "г. Москва, Северный бульвар, 2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.864899,
+      "lng": 37.607215,
       "sourceSheet": "МосТабак",
       "sourceRow": 106
     },
@@ -1585,8 +1585,8 @@
       "address": "г. Москва, улица Кожевническая, 5",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.730193,
+      "lng": 37.643992,
       "sourceSheet": "МосТабак",
       "sourceRow": 107
     },
@@ -1600,8 +1600,8 @@
       "address": "г. Москва, Измайловское шоссе, 69Д",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.788474,
+      "lng": 37.747963,
       "sourceSheet": "МосТабак",
       "sourceRow": 108
     },
@@ -1615,8 +1615,8 @@
       "address": "г. Москва, улица Первомайская, 77",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.793728,
+      "lng": 37.800712,
       "sourceSheet": "МосТабак",
       "sourceRow": 109
     },
@@ -1630,8 +1630,8 @@
       "address": "г. Москва, улица 2-я Владимирская, 41, кор.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.751893,
+      "lng": 37.784776,
       "sourceSheet": "МосТабак",
       "sourceRow": 110
     },
@@ -1645,8 +1645,8 @@
       "address": "г. Москва, улица Планерная, 12 кор.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.862146,
+      "lng": 37.436634,
       "sourceSheet": "МосТабак",
       "sourceRow": 111
     },
@@ -1660,8 +1660,8 @@
       "address": "Московская область, г. Подольск, Вокзальная площадь, 4 стр.6",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.431586,
+      "lng": 37.563871,
       "sourceSheet": "МосТабак",
       "sourceRow": 112
     },
@@ -1675,8 +1675,8 @@
       "address": "Московская область, г. Подольск, Вокзальная площадь, 4 стр.4",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.431662,
+      "lng": 37.563907,
       "sourceSheet": "МосТабак",
       "sourceRow": 113
     },
@@ -1690,8 +1690,8 @@
       "address": "г. Москва, Хорошёвское шоссе, 35 кор.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.777489,
+      "lng": 37.521695,
       "sourceSheet": "МосТабак",
       "sourceRow": 114
     },
@@ -1705,8 +1705,8 @@
       "address": "г. Москва, улица Большая Полянка, 26 стр.2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.737061,
+      "lng": 37.618812,
       "sourceSheet": "МосТабак",
       "sourceRow": 115
     },
@@ -1720,8 +1720,8 @@
       "address": "г. Москва, улица Большая Полянка, 26 стр.2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.737061,
+      "lng": 37.618812,
       "sourceSheet": "МосТабак",
       "sourceRow": 116
     },
@@ -1735,8 +1735,8 @@
       "address": "г. Москва, улица Александры Монаховой, 85 кор.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.550407,
+      "lng": 37.490065,
       "sourceSheet": "МосТабак",
       "sourceRow": 117
     },
@@ -1750,8 +1750,8 @@
       "address": "г. Москва, проспект Вернадского, 14А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.677737,
+      "lng": 37.506891,
       "sourceSheet": "МосТабак",
       "sourceRow": 118
     },
@@ -1765,8 +1765,8 @@
       "address": "г. Москва, проспект Мира, 48 стр.6",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.781793,
+      "lng": 37.63429,
       "sourceSheet": "МосТабак",
       "sourceRow": 119
     },
@@ -1780,8 +1780,8 @@
       "address": "г. Москва, Нахимовский проспект, 59А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.678626,
+      "lng": 37.560511,
       "sourceSheet": "МосТабак",
       "sourceRow": 120
     },
@@ -1795,8 +1795,8 @@
       "address": "г. Москва, Профсоюзная, 19",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.678468,
+      "lng": 37.564239,
       "sourceSheet": "МосТабак",
       "sourceRow": 121
     },
@@ -1810,8 +1810,8 @@
       "address": "Московская область, г. Пушкино, улица Вокзальная, 1 стр.4",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.01228,
+      "lng": 37.841388,
       "sourceSheet": "МосТабак",
       "sourceRow": 122
     },
@@ -1825,8 +1825,8 @@
       "address": "Московская область, г. Пушкино, улица Вокзальная, 1 стр.4",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.01228,
+      "lng": 37.841388,
       "sourceSheet": "МосТабак",
       "sourceRow": 123
     },
@@ -1840,8 +1840,8 @@
       "address": "г. Москва, Мичуринский проспект, 34",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.69834,
+      "lng": 37.498025,
       "sourceSheet": "МосТабак",
       "sourceRow": 124
     },
@@ -1855,8 +1855,8 @@
       "address": "Московская область, г. Раменское, улица Вокзальная, 4Б",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.565829,
+      "lng": 38.226657,
       "sourceSheet": "МосТабак",
       "sourceRow": 125
     },
@@ -1870,8 +1870,8 @@
       "address": "Московская область, г. Реутов, улица Дзержинского, 11В",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.752622,
+      "lng": 37.859453,
       "sourceSheet": "МосТабак",
       "sourceRow": 126
     },
@@ -1885,8 +1885,8 @@
       "address": "г. Москва, улица Сергия Радонежского, 29-31 стр.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.746927,
+      "lng": 37.679502,
       "sourceSheet": "МосТабак",
       "sourceRow": 127
     },
@@ -1900,8 +1900,8 @@
       "address": "г. Москва, улица Международная, 9",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.745747,
+      "lng": 37.683446,
       "sourceSheet": "МосТабак",
       "sourceRow": 128
     },
@@ -1915,8 +1915,8 @@
       "address": "г. Москва, Рязанский проспект, 75 стр.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.717781,
+      "lng": 37.79242,
       "sourceSheet": "МосТабак",
       "sourceRow": 129
     },
@@ -1924,14 +1924,14 @@
       "id": "mostabak-129",
       "network": "МосТабак",
       "title": "МосТабак — Рязань Первомайский 72",
-      "city": "",
-      "region": "",
+      "city": "Рязань",
+      "region": "Рязанская область",
       "district": "",
       "address": "г. Рязань, Первомайский проспект, 72",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 54.629935,
+      "lng": 39.708662,
       "sourceSheet": "МосТабак",
       "sourceRow": 130
     },
@@ -1945,8 +1945,8 @@
       "address": "г. Москва, улица Бутырская, 4",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.794831,
+      "lng": 37.585925,
       "sourceSheet": "МосТабак",
       "sourceRow": 131
     },
@@ -1960,8 +1960,8 @@
       "address": "г. Москва, Коровинское шоссе, 1А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.864601,
+      "lng": 37.544396,
       "sourceSheet": "МосТабак",
       "sourceRow": 132
     },
@@ -1975,8 +1975,8 @@
       "address": "г. Москва, улица Щербаковская, 3 стр.5",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.782653,
+      "lng": 37.722855,
       "sourceSheet": "МосТабак",
       "sourceRow": 133
     },
@@ -1990,8 +1990,8 @@
       "address": "Московская область, г. Сергиев Посад, проспект Красной Армии, 139",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.313708,
+      "lng": 38.13528,
       "sourceSheet": "МосТабак",
       "sourceRow": 134
     },
@@ -2005,8 +2005,8 @@
       "address": "Московская область, г. Сергиев Посад, проспект Красной Армии, 5А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.296324,
+      "lng": 38.127896,
       "sourceSheet": "МосТабак",
       "sourceRow": 135
     },
@@ -2020,8 +2020,8 @@
       "address": "Московская область, г. Сергиев Посад, Вокзальная площадь, 2Б",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.303806,
+      "lng": 38.137616,
       "sourceSheet": "МосТабак",
       "sourceRow": 136
     },
@@ -2035,8 +2035,8 @@
       "address": "Московская область, г. Серпухов, улица Ворошилова, 74",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 54.918447,
+      "lng": 37.426168,
       "sourceSheet": "МосТабак",
       "sourceRow": 137
     },
@@ -2050,8 +2050,8 @@
       "address": "г. Москва, Славянский бульвар, 7 кор.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.726715,
+      "lng": 37.469916,
       "sourceSheet": "МосТабак",
       "sourceRow": 138
     },
@@ -2065,8 +2065,8 @@
       "address": "г. Москва, улица Арбат, 54/2 стр.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.747368,
+      "lng": 37.583095,
       "sourceSheet": "МосТабак",
       "sourceRow": 139
     },
@@ -2080,8 +2080,8 @@
       "address": "г. Москва, Троилинский переулок, 5",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.748326,
+      "lng": 37.583598,
       "sourceSheet": "МосТабак",
       "sourceRow": 140
     },
@@ -2095,8 +2095,8 @@
       "address": "г. Москва, Ленинградский проспект, 73А стр.3",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.803555,
+      "lng": 37.513521,
       "sourceSheet": "МосТабак",
       "sourceRow": 141
     },
@@ -2110,8 +2110,8 @@
       "address": "г. Москва, Ленинградский проспект, 74 кор.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.805133,
+      "lng": 37.516952,
       "sourceSheet": "МосТабак",
       "sourceRow": 142
     },
@@ -2125,8 +2125,8 @@
       "address": "г. Москва, Сокольническая площадь, 4 кор.1-2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.789922,
+      "lng": 37.677894,
       "sourceSheet": "МосТабак",
       "sourceRow": 143
     },
@@ -2140,8 +2140,8 @@
       "address": "г. Москва, Сокольническая площадь, 4 кор.1-2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.789922,
+      "lng": 37.677894,
       "sourceSheet": "МосТабак",
       "sourceRow": 144
     },
@@ -2155,8 +2155,8 @@
       "address": "г. Москва, Волоколамское шоссе, 71 кор. 4",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.818184,
+      "lng": 37.431657,
       "sourceSheet": "МосТабак",
       "sourceRow": 145
     },
@@ -2170,8 +2170,8 @@
       "address": "г. Москва, Волоколамское шоссе, 24 кор.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.811609,
+      "lng": 37.484864,
       "sourceSheet": "МосТабак",
       "sourceRow": 146
     },
@@ -2185,8 +2185,8 @@
       "address": "г. Москва, улица Верхняя Радищевская, 22",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.742656,
+      "lng": 37.653191,
       "sourceSheet": "МосТабак",
       "sourceRow": 147
     },
@@ -2200,8 +2200,8 @@
       "address": "г. Москва, улица Б.Бронная, 29",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.764703,
+      "lng": 37.603092,
       "sourceSheet": "МосТабак",
       "sourceRow": 148
     },
@@ -2215,8 +2215,8 @@
       "address": "г. Москва, Волгоградский проспект, 63",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.709972,
+      "lng": 37.735413,
       "sourceSheet": "МосТабак",
       "sourceRow": 149
     },
@@ -2230,8 +2230,8 @@
       "address": "г. Москва, улица Профсоюзная, 152 кор. 1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.622314,
+      "lng": 37.505894,
       "sourceSheet": "МосТабак",
       "sourceRow": 150
     },
@@ -2245,8 +2245,8 @@
       "address": "г. Москва, улица Яблочкова, 19Г",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.81912,
+      "lng": 37.578073,
       "sourceSheet": "МосТабак",
       "sourceRow": 151
     },
@@ -2260,8 +2260,8 @@
       "address": "г. Москва, улица Пятницкая, 29",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.740943,
+      "lng": 37.62899,
       "sourceSheet": "МосТабак",
       "sourceRow": 152
     },
@@ -2275,8 +2275,8 @@
       "address": "г. Москва, улица Неглинная, 16/2 стр.4",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.765078,
+      "lng": 37.620483,
       "sourceSheet": "МосТабак",
       "sourceRow": 153
     },
@@ -2290,8 +2290,8 @@
       "address": "г. Тула, проспект Ленина, 96",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 54.165035,
+      "lng": 37.585404,
       "sourceSheet": "МосТабак",
       "sourceRow": 154
     },
@@ -2305,8 +2305,8 @@
       "address": "г. Тула, улица Ложевая, 123",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 54.202772,
+      "lng": 37.641926,
       "sourceSheet": "МосТабак",
       "sourceRow": 155
     },
@@ -2320,8 +2320,8 @@
       "address": "г. Тула, улица Октябрьская, 48Д",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 54.212803,
+      "lng": 37.621848,
       "sourceSheet": "МосТабак",
       "sourceRow": 156
     },
@@ -2335,8 +2335,8 @@
       "address": "г. Москва, улица Серпуховский Вал, 5",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.711118,
+      "lng": 37.616494,
       "sourceSheet": "МосТабак",
       "sourceRow": 157
     },
@@ -2350,8 +2350,8 @@
       "address": "г. Москва, проезд Стратонавтов, 9",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.826382,
+      "lng": 37.436194,
       "sourceSheet": "МосТабак",
       "sourceRow": 158
     },
@@ -2365,8 +2365,8 @@
       "address": "г. Москва, Ломоносовский проспект, 23А стр.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.691714,
+      "lng": 37.535655,
       "sourceSheet": "МосТабак",
       "sourceRow": 159
     },
@@ -2380,8 +2380,8 @@
       "address": "г. Москва, Багратионовский проезд, 1А кор.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.745802,
+      "lng": 37.513116,
       "sourceSheet": "МосТабак",
       "sourceRow": 160
     },
@@ -2395,8 +2395,8 @@
       "address": "г. Москва, Комсомольский проспект, 25 кор.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.726593,
+      "lng": 37.582251,
       "sourceSheet": "МосТабак",
       "sourceRow": 161
     },
@@ -2410,8 +2410,8 @@
       "address": "Московская область, г. Фрязино, проспект Мира, 8",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.952641,
+      "lng": 38.053857,
       "sourceSheet": "МосТабак",
       "sourceRow": 162
     },
@@ -2425,8 +2425,8 @@
       "address": "Московская область, г. Химки, улица Московская, 3",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.893475,
+      "lng": 37.45018,
       "sourceSheet": "МосТабак",
       "sourceRow": 163
     },
@@ -2440,8 +2440,8 @@
       "address": "г. Москва, Цветной бульвар, 17",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.771636,
+      "lng": 37.620312,
       "sourceSheet": "МосТабак",
       "sourceRow": 164
     },
@@ -2455,8 +2455,8 @@
       "address": "Московская область, г. Чехов, Вокзальная площадь, 8",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.149156,
+      "lng": 37.489158,
       "sourceSheet": "МосТабак",
       "sourceRow": 165
     },
@@ -2470,8 +2470,8 @@
       "address": "г. Москва, улица Мясницкая, 30/1/2 стр.2, пом. 4/1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.76523,
+      "lng": 37.638755,
       "sourceSheet": "МосТабак",
       "sourceRow": 166
     },
@@ -2485,8 +2485,8 @@
       "address": "г. Москва, Земляной Вал, 39/1 стр.1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.755282,
+      "lng": 37.657799,
       "sourceSheet": "МосТабак",
       "sourceRow": 167
     },
@@ -2500,8 +2500,8 @@
       "address": "Московская область, г. Щёлково, улица Пушкина, 2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.919998,
+      "lng": 37.974213,
       "sourceSheet": "МосТабак",
       "sourceRow": 168
     },
@@ -2515,8 +2515,8 @@
       "address": "Московская область, г. Щелково, улица Парковая, 7",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.920386,
+      "lng": 37.987903,
       "sourceSheet": "МосТабак",
       "sourceRow": 169
     },
@@ -2530,8 +2530,8 @@
       "address": "г. Москва, улица Уральская, 1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.811634,
+      "lng": 37.797729,
       "sourceSheet": "МосТабак",
       "sourceRow": 170
     },
@@ -2545,8 +2545,8 @@
       "address": "г. Москва, г. Щербинка, улица Пушкинская, д. 2 стр.3",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.510283,
+      "lng": 37.563521,
       "sourceSheet": "МосТабак",
       "sourceRow": 171
     },
@@ -2560,8 +2560,8 @@
       "address": "г. Москва, улица Маршала Василевского, 17",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.808852,
+      "lng": 37.462451,
       "sourceSheet": "МосТабак",
       "sourceRow": 172
     },
@@ -2569,14 +2569,14 @@
       "id": "mostabak-172",
       "network": "МосТабак",
       "title": "МосТабак — Ярославль Белинского 24",
-      "city": "",
-      "region": "",
+      "city": "Ярославль",
+      "region": "Ярославская область",
       "district": "",
       "address": "г. Ярославль, улица Чкалова, 30/24",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 57.637935,
+      "lng": 39.838962,
       "sourceSheet": "МосТабак",
       "sourceRow": 173
     },
@@ -2584,14 +2584,14 @@
       "id": "mostabak-173",
       "network": "МосТабак",
       "title": "МосТабак — Ярославль Победы 5А",
-      "city": "",
-      "region": "",
+      "city": "Ярославль",
+      "region": "Ярославская область",
       "district": "",
       "address": "г. Ярославль, улица Победы, 5А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 57.637921,
+      "lng": 39.883734,
       "sourceSheet": "МосТабак",
       "sourceRow": 174
     },
@@ -2599,14 +2599,14 @@
       "id": "mostabak-174",
       "network": "МосТабак",
       "title": "МосТабак — Ярославль Свободы 14",
-      "city": "",
-      "region": "",
+      "city": "Ярославль",
+      "region": "Ярославская область",
       "district": "",
       "address": "г. Ярославль, улица Свободы, 14",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 57.625624,
+      "lng": 39.879961,
       "sourceSheet": "МосТабак",
       "sourceRow": 175
     },
@@ -2620,8 +2620,8 @@
       "address": "г. Москва, Ярославское шоссе, 54",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.865531,
+      "lng": 37.70488,
       "sourceSheet": "МосТабак",
       "sourceRow": 176
     },
@@ -2635,8 +2635,8 @@
       "address": "г. Москва, Дмитровское шоссе, 98",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.879324,
+      "lng": 37.547342,
       "sourceSheet": "МосТабак",
       "sourceRow": 177
     },
@@ -2650,8 +2650,8 @@
       "address": "г. Москва, улица Сходненская, 37",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.849696,
+      "lng": 37.438924,
       "sourceSheet": "МосТабак",
       "sourceRow": 178
     },
@@ -2665,10 +2665,10 @@
       "address": "412480, Россия, Саратовская обл, Калининский р-н, г Калининск Ленина д117/1 пом 3",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.496463,
+      "lng": 44.481474,
       "sourceSheet": "Дым Бомбим",
-      "sourceRow": 2
+      "sourceRow": 179
     },
     {
       "id": "dym-bombim-002",
@@ -2680,10 +2680,10 @@
       "address": "Саратовская обл., г. Красноармейск, ул. Ленина 53 помещение номер -2(два), этаж- 1-й",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.028704,
+      "lng": 45.694639,
       "sourceSheet": "Дым Бомбим",
-      "sourceRow": 3
+      "sourceRow": 180
     },
     {
       "id": "dym-bombim-003",
@@ -2695,10 +2695,10 @@
       "address": "410022, Россия, Саратовская обл, г Саратов, ул Лунная 30",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.574112,
+      "lng": 45.96929,
       "sourceSheet": "Дым Бомбим",
-      "sourceRow": 4
+      "sourceRow": 181
     },
     {
       "id": "dym-bombim-004",
@@ -2710,10 +2710,10 @@
       "address": "412860, Россия, Саратовская обл, Лысогорский р-н, рп Лысые Горы, ул Советская, 41",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.532453,
+      "lng": 44.813159,
       "sourceSheet": "Дым Бомбим",
-      "sourceRow": 5
+      "sourceRow": 182
     },
     {
       "id": "dym-bombim-005",
@@ -2725,10 +2725,10 @@
       "address": "412580, Россия, Саратовская обл, Новобурасский р-н, рп Новые Бурасы, ул Баумана, 41",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 52.13087,
+      "lng": 46.076513,
       "sourceSheet": "Дым Бомбим",
-      "sourceRow": 6
+      "sourceRow": 183
     },
     {
       "id": "dym-bombim-006",
@@ -2740,10 +2740,10 @@
       "address": "412370, Россия, Саратовская обл, Самойловский р-н, рп Самойловка, ул Красная площадь, 1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.18069,
+      "lng": 43.707656,
       "sourceSheet": "Дым Бомбим",
-      "sourceRow": 7
+      "sourceRow": 184
     },
     {
       "id": "dym-bombim-007",
@@ -2755,10 +2755,10 @@
       "address": "412975, Россия, Саратовская обл, Вольский р-н, рп Сенной, ул Спортивная, 8",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 52.153387,
+      "lng": 46.96121,
       "sourceSheet": "Дым Бомбим",
-      "sourceRow": 8
+      "sourceRow": 185
     },
     {
       "id": "dym-bombim-008",
@@ -2770,10 +2770,10 @@
       "address": "412630, Россия, Саратовская обл, Балтайский р-н, село Балтай, В.И.Чапаева ул, дом № 85А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 52.466898,
+      "lng": 46.626947,
       "sourceSheet": "Дым Бомбим",
-      "sourceRow": 9
+      "sourceRow": 186
     },
     {
       "id": "best-shop-001",
@@ -2785,10 +2785,10 @@
       "address": "Казань, Волкова, 59",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.787239,
+      "lng": 49.143416,
       "sourceSheet": "Best shop",
-      "sourceRow": 2
+      "sourceRow": 187
     },
     {
       "id": "best-shop-002",
@@ -2800,10 +2800,10 @@
       "address": "Казань, Чистопольская, 88",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.81871,
+      "lng": 49.146461,
       "sourceSheet": "Best shop",
-      "sourceRow": 3
+      "sourceRow": 188
     },
     {
       "id": "best-shop-003",
@@ -2815,10 +2815,10 @@
       "address": "Казань, Чистопольская, 66",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.816298,
+      "lng": 49.135088,
       "sourceSheet": "Best shop",
-      "sourceRow": 4
+      "sourceRow": 189
     },
     {
       "id": "best-shop-004",
@@ -2830,10 +2830,10 @@
       "address": "Казань, Мусы Джалиля, 6/1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.791122,
+      "lng": 49.111229,
       "sourceSheet": "Best shop",
-      "sourceRow": 5
+      "sourceRow": 190
     },
     {
       "id": "best-shop-005",
@@ -2845,10 +2845,10 @@
       "address": "Казань, Пушкина, 1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.785275,
+      "lng": 49.118883,
       "sourceSheet": "Best shop",
-      "sourceRow": 6
+      "sourceRow": 191
     },
     {
       "id": "hookah-traid-001",
@@ -2860,10 +2860,10 @@
       "address": "Казань, Аделя Кутуя 46",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.785579,
+      "lng": 49.175539,
       "sourceSheet": "Hookah Traid",
-      "sourceRow": 2
+      "sourceRow": 192
     },
     {
       "id": "hookah-traid-002",
@@ -2875,10 +2875,10 @@
       "address": "Казань, Адоратского 19",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.83069,
+      "lng": 49.14673,
       "sourceSheet": "Hookah Traid",
-      "sourceRow": 3
+      "sourceRow": 193
     },
     {
       "id": "hookah-traid-003",
@@ -2890,10 +2890,10 @@
       "address": "Казань, Академика Лаврентьева 12",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.831251,
+      "lng": 49.150674,
       "sourceSheet": "Hookah Traid",
-      "sourceRow": 4
+      "sourceRow": 194
     },
     {
       "id": "hookah-traid-004",
@@ -2905,10 +2905,10 @@
       "address": "Казань, Александра Курынова 4к4",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.799623,
+      "lng": 49.241745,
       "sourceSheet": "Hookah Traid",
-      "sourceRow": 5
+      "sourceRow": 195
     },
     {
       "id": "hookah-traid-005",
@@ -2920,10 +2920,10 @@
       "address": "Казань, Вересаева 2а",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.871117,
+      "lng": 49.089238,
       "sourceSheet": "Hookah Traid",
-      "sourceRow": 6
+      "sourceRow": 196
     },
     {
       "id": "hookah-traid-006",
@@ -2935,10 +2935,10 @@
       "address": "Казань, Восход 16",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.832303,
+      "lng": 49.073904,
       "sourceSheet": "Hookah Traid",
-      "sourceRow": 7
+      "sourceRow": 197
     },
     {
       "id": "hookah-traid-007",
@@ -2950,10 +2950,10 @@
       "address": "Казань, Достоевского 50",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.787573,
+      "lng": 49.153468,
       "sourceSheet": "Hookah Traid",
-      "sourceRow": 8
+      "sourceRow": 198
     },
     {
       "id": "hookah-traid-008",
@@ -2965,10 +2965,10 @@
       "address": "Казань, Максимова 20а",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.86156,
+      "lng": 49.091807,
       "sourceSheet": "Hookah Traid",
-      "sourceRow": 9
+      "sourceRow": 199
     },
     {
       "id": "hookah-traid-009",
@@ -2980,10 +2980,10 @@
       "address": "Казань, Мира 3а",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.867041,
+      "lng": 49.233292,
       "sourceSheet": "Hookah Traid",
-      "sourceRow": 10
+      "sourceRow": 200
     },
     {
       "id": "hookah-traid-010",
@@ -2995,10 +2995,10 @@
       "address": "Казань, Нурсултана Назарбаева 60",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.771732,
+      "lng": 49.136283,
       "sourceSheet": "Hookah Traid",
-      "sourceRow": 11
+      "sourceRow": 201
     },
     {
       "id": "hookah-traid-011",
@@ -3010,10 +3010,10 @@
       "address": "Казань, Октябрьская 58 (с. Песчаные Ковали)",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.625664,
+      "lng": 49.140011,
       "sourceSheet": "Hookah Traid",
-      "sourceRow": 12
+      "sourceRow": 202
     },
     {
       "id": "hookah-traid-012",
@@ -3025,10 +3025,10 @@
       "address": "Казань, Проспект Победы 139а к2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.775793,
+      "lng": 49.213852,
       "sourceSheet": "Hookah Traid",
-      "sourceRow": 13
+      "sourceRow": 203
     },
     {
       "id": "hookah-traid-013",
@@ -3040,10 +3040,10 @@
       "address": "Казань, Рихарда Зорге 99",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.743841,
+      "lng": 49.221317,
       "sourceSheet": "Hookah Traid",
-      "sourceRow": 14
+      "sourceRow": 204
     },
     {
       "id": "hookah-traid-014",
@@ -3055,10 +3055,10 @@
       "address": "Казань, Сибирский тракт 8",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.805224,
+      "lng": 49.184999,
       "sourceSheet": "Hookah Traid",
-      "sourceRow": 15
+      "sourceRow": 205
     },
     {
       "id": "hookah-traid-015",
@@ -3070,10 +3070,10 @@
       "address": "Казань, Чистопольская 31",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.820855,
+      "lng": 49.121353,
       "sourceSheet": "Hookah Traid",
-      "sourceRow": 16
+      "sourceRow": 206
     },
     {
       "id": "hookah-traid-016",
@@ -3085,10 +3085,10 @@
       "address": "Казань, Юлиуса Фучика 106а",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.769707,
+      "lng": 49.232376,
       "sourceSheet": "Hookah Traid",
-      "sourceRow": 17
+      "sourceRow": 207
     },
     {
       "id": "parmarket-001",
@@ -3100,10 +3100,10 @@
       "address": "Нижний Новгород, пр. Ленина, 33",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.287337,
+      "lng": 43.928219,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 2
+      "sourceRow": 208
     },
     {
       "id": "parmarket-002",
@@ -3115,10 +3115,10 @@
       "address": "Нижний Новгород, ул. Чкалова, 1В",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.319884,
+      "lng": 43.944739,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 3
+      "sourceRow": 209
     },
     {
       "id": "parmarket-003",
@@ -3130,10 +3130,10 @@
       "address": "Нижний Новгород, ул. Ефремова, 3",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.350487,
+      "lng": 43.866047,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 4
+      "sourceRow": 210
     },
     {
       "id": "parmarket-004",
@@ -3145,10 +3145,10 @@
       "address": "Нижний Новгород, пр. Гагарина, 101к4",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.237972,
+      "lng": 43.956265,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 5
+      "sourceRow": 211
     },
     {
       "id": "parmarket-005",
@@ -3160,10 +3160,10 @@
       "address": "Нижний Новгород, ул. Карла Маркса, 60",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.339372,
+      "lng": 43.951935,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 6
+      "sourceRow": 212
     },
     {
       "id": "parmarket-006",
@@ -3175,10 +3175,10 @@
       "address": "Нижний Новгород, ул. Академика Сахарова, 111",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.261868,
+      "lng": 44.018195,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 7
+      "sourceRow": 213
     },
     {
       "id": "parmarket-007",
@@ -3190,10 +3190,10 @@
       "address": "Нижний Новгород, ул. Родионова, 189/24",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.30505,
+      "lng": 44.078912,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 8
+      "sourceRow": 214
     },
     {
       "id": "parmarket-008",
@@ -3205,10 +3205,10 @@
       "address": "Нижний Новгород, ул. Бурнаковская, 51А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.3405,
+      "lng": 43.91523,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 9
+      "sourceRow": 215
     },
     {
       "id": "parmarket-009",
@@ -3220,10 +3220,10 @@
       "address": "Нижний Новгород, ул. Ванеева, 185",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.29519,
+      "lng": 44.033843,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 10
+      "sourceRow": 216
     },
     {
       "id": "parmarket-010",
@@ -3235,10 +3235,10 @@
       "address": "Нижний Новгород, ул. Южное шоссе, 41",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.229246,
+      "lng": 43.86858,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 11
+      "sourceRow": 217
     },
     {
       "id": "parmarket-011",
@@ -3250,10 +3250,10 @@
       "address": "Нижний Новгород, ул. Плотникова, 3а",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.259398,
+      "lng": 43.857198,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 12
+      "sourceRow": 218
     },
     {
       "id": "parmarket-012",
@@ -3265,10 +3265,10 @@
       "address": "Нижний Новгород, ул. Звездинка, 1/80",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.314297,
+      "lng": 43.993212,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 13
+      "sourceRow": 219
     },
     {
       "id": "parmarket-013",
@@ -3280,10 +3280,10 @@
       "address": "Нижний Новгород, пр. Гагарина, 19",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.301539,
+      "lng": 43.983672,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 14
+      "sourceRow": 220
     },
     {
       "id": "parmarket-014",
@@ -3295,10 +3295,10 @@
       "address": "Нижний Новгород, ул. Надежды Сусловой, 10к1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.302802,
+      "lng": 44.041389,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 15
+      "sourceRow": 221
     },
     {
       "id": "parmarket-015",
@@ -3310,10 +3310,10 @@
       "address": "Дзержинск, ул. Гайдара, 58",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.23515,
+      "lng": 43.437604,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 16
+      "sourceRow": 222
     },
     {
       "id": "parmarket-016",
@@ -3325,10 +3325,10 @@
       "address": "Нижний Новгород, пр. Ленина, 64",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.273735,
+      "lng": 43.920018,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 17
+      "sourceRow": 223
     },
     {
       "id": "parmarket-017",
@@ -3340,10 +3340,10 @@
       "address": "Нижний Новгород, ул. Страж Революции, 1а",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.336927,
+      "lng": 43.881579,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 18
+      "sourceRow": 224
     },
     {
       "id": "parmarket-018",
@@ -3355,10 +3355,10 @@
       "address": "Дзержинск, ул. Грибоедова, 20",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.238117,
+      "lng": 43.449148,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 19
+      "sourceRow": 225
     },
     {
       "id": "parmarket-019",
@@ -3370,10 +3370,10 @@
       "address": "Нижний Новгород, пр. Ленина, 77",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.266332,
+      "lng": 43.912481,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 20
+      "sourceRow": 226
     },
     {
       "id": "parmarket-020",
@@ -3385,10 +3385,10 @@
       "address": "Нижний Новгород, пр. Октября, 2А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.243169,
+      "lng": 43.864574,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 21
+      "sourceRow": 227
     },
     {
       "id": "parmarket-021",
@@ -3400,10 +3400,10 @@
       "address": "Нижний Новгород, Московское шоссе, 33А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.321741,
+      "lng": 43.931067,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 22
+      "sourceRow": 228
     },
     {
       "id": "parmarket-022",
@@ -3415,10 +3415,10 @@
       "address": "Нижний Новгород, ул. Ванеева, 30",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.30851,
+      "lng": 44.023683,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 23
+      "sourceRow": 229
     },
     {
       "id": "parmarket-023",
@@ -3430,40 +3430,40 @@
       "address": "Нижний Новгород, ул. Полтавская, 2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.317827,
+      "lng": 44.024141,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 24
+      "sourceRow": 230
     },
     {
       "id": "parmarket-024",
       "network": "Пармаркет",
       "title": "Пармаркет — ул. Баязита Бикбая, 21",
-      "city": "",
-      "region": "",
+      "city": "Уфа",
+      "region": "Республика Башкортостан",
       "district": "",
       "address": "Уфа, ул. Баязита Бикбая, 21",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 54.767861,
+      "lng": 56.060452,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 25
+      "sourceRow": 231
     },
     {
       "id": "parmarket-025",
       "network": "Пармаркет",
       "title": "Пармаркет — ул. Коммунистическая, 65",
-      "city": "",
-      "region": "",
+      "city": "Уфа",
+      "region": "Республика Башкортостан",
       "district": "",
       "address": "Уфа, ул. Коммунистическая, 65",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 54.72567,
+      "lng": 55.951451,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 26
+      "sourceRow": 232
     },
     {
       "id": "parmarket-026",
@@ -3475,10 +3475,10 @@
       "address": "Нижний Новгород, ул. Ногина, 1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.36126,
+      "lng": 43.851126,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 27
+      "sourceRow": 233
     },
     {
       "id": "parmarket-027",
@@ -3490,10 +3490,10 @@
       "address": "Нижний Новгород, ул. Романтиков, 2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.274994,
+      "lng": 44.047057,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 28
+      "sourceRow": 234
     },
     {
       "id": "parmarket-028",
@@ -3505,10 +3505,10 @@
       "address": "Нижний Новгород, ул. Коммуны, 35",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.339238,
+      "lng": 43.840894,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 29
+      "sourceRow": 235
     },
     {
       "id": "parmarket-029",
@@ -3520,40 +3520,40 @@
       "address": "Нижний Новгород, ул. Рокоссовского, 19",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.283914,
+      "lng": 44.038955,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 30
+      "sourceRow": 236
     },
     {
       "id": "parmarket-030",
       "network": "Пармаркет",
       "title": "Пармаркет — ул. Ленина, 102",
-      "city": "",
-      "region": "",
+      "city": "Уфа",
+      "region": "Республика Башкортостан",
       "district": "",
       "address": "Уфа, ул. Ленина, 102",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 54.738406,
+      "lng": 55.954442,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 31
+      "sourceRow": 237
     },
     {
       "id": "parmarket-031",
       "network": "Пармаркет",
       "title": "Пармаркет — ул. Давлеткильдеева, 5",
-      "city": "",
-      "region": "",
+      "city": "Уфа",
+      "region": "Республика Башкортостан",
       "district": "",
       "address": "Уфа, ул. Давлеткильдеева, 5",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 54.765602,
+      "lng": 56.032919,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 32
+      "sourceRow": 238
     },
     {
       "id": "parmarket-032",
@@ -3565,10 +3565,10 @@
       "address": "Нижний Новгород, ул. Дьяконова, 7",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.260058,
+      "lng": 43.874401,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 33
+      "sourceRow": 239
     },
     {
       "id": "parmarket-033",
@@ -3580,10 +3580,10 @@
       "address": "Нижний Новгород, Московское шоссе, 142Г",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.313903,
+      "lng": 43.884346,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 34
+      "sourceRow": 240
     },
     {
       "id": "parmarket-034",
@@ -3595,10 +3595,10 @@
       "address": "Нижний Новгород, Академика Сахарова, 99к1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.266357,
+      "lng": 44.021994,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 35
+      "sourceRow": 241
     },
     {
       "id": "parmarket-035",
@@ -3610,10 +3610,10 @@
       "address": "Нижний Новгород, пр. Героев Донбасса, 10а",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.270341,
+      "lng": 44.044533,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 36
+      "sourceRow": 242
     },
     {
       "id": "parmarket-036",
@@ -3625,10 +3625,10 @@
       "address": "Нижний Новгород, ул. Верхне-Печёрская, 14Б",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.285343,
+      "lng": 44.069255,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 37
+      "sourceRow": 243
     },
     {
       "id": "parmarket-037",
@@ -3640,25 +3640,25 @@
       "address": "Нижний Новгород, ул. Генерала Ивлиева, 39а",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.282455,
+      "lng": 44.052618,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 38
+      "sourceRow": 244
     },
     {
       "id": "parmarket-038",
       "network": "Пармаркет",
       "title": "Пармаркет — пр. Октября, 65",
-      "city": "",
-      "region": "",
+      "city": "Уфа",
+      "region": "Республика Башкортостан",
       "district": "",
       "address": "Уфа, пр. Октября, 65",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 54.760174,
+      "lng": 56.009132,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 39
+      "sourceRow": 245
     },
     {
       "id": "parmarket-039",
@@ -3670,10 +3670,10 @@
       "address": "Нижний Новгород, ул. Коломенская, 6",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.233509,
+      "lng": 43.838972,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 40
+      "sourceRow": 246
     },
     {
       "id": "parmarket-040",
@@ -3685,10 +3685,10 @@
       "address": "Нижний Новгород, ул. Пискунова, 20А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.324396,
+      "lng": 44.00781,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 41
+      "sourceRow": 247
     },
     {
       "id": "parmarket-041",
@@ -3700,10 +3700,10 @@
       "address": "Дзержинск, пр. Ленина, 65",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.238082,
+      "lng": 43.463817,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 42
+      "sourceRow": 248
     },
     {
       "id": "parmarket-042",
@@ -3715,25 +3715,25 @@
       "address": "Нижний Новгород, Луговая улица, 30",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.222475,
+      "lng": 43.838909,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 43
+      "sourceRow": 249
     },
     {
       "id": "parmarket-043",
       "network": "Пармаркет",
       "title": "Пармаркет — Верхнеторговая пл., 1",
-      "city": "",
-      "region": "",
+      "city": "Уфа",
+      "region": "Республика Башкортостан",
       "district": "",
       "address": "Уфа, Верхнеторговая пл., 1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 54.724833,
+      "lng": 55.944174,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 44
+      "sourceRow": 250
     },
     {
       "id": "parmarket-044",
@@ -3745,10 +3745,10 @@
       "address": "Нижний Новгород, ул. Космонавта Комарова, 2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.276828,
+      "lng": 43.935612,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 45
+      "sourceRow": 251
     },
     {
       "id": "parmarket-045",
@@ -3760,10 +3760,10 @@
       "address": "Нижний Новгород, ул. Нижне-Волжская наб., 7/2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.330864,
+      "lng": 43.99597,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 46
+      "sourceRow": 252
     },
     {
       "id": "parmarket-046",
@@ -3775,10 +3775,10 @@
       "address": "Нижний Новгород, ул. Советская площадь, 5",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.326797,
+      "lng": 44.006516,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 47
+      "sourceRow": 253
     },
     {
       "id": "parmarket-047",
@@ -3790,10 +3790,10 @@
       "address": "Нижний Новгород, ул. Площадь Революции, 9",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.335196,
+      "lng": 43.881103,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 48
+      "sourceRow": 254
     },
     {
       "id": "parmarket-048",
@@ -3805,10 +3805,10 @@
       "address": "Нижний Новгород, Московское шоссе, 12",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.317947,
+      "lng": 43.925443,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 49
+      "sourceRow": 255
     },
     {
       "id": "parmarket-049",
@@ -3820,10 +3820,10 @@
       "address": "Нижний Новгород, пр. Гагарина, 212А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.232744,
+      "lng": 43.951207,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 50
+      "sourceRow": 256
     },
     {
       "id": "parmarket-050",
@@ -3835,10 +3835,10 @@
       "address": "Нижний Новгород, пр. Гагарина, 105А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.23512,
+      "lng": 43.951557,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 51
+      "sourceRow": 257
     },
     {
       "id": "parmarket-051",
@@ -3850,10 +3850,10 @@
       "address": "Нижний Новгород, пр. Кораблестроителей, 3Б",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.365897,
+      "lng": 43.822586,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 52
+      "sourceRow": 258
     },
     {
       "id": "parmarket-052",
@@ -3865,10 +3865,10 @@
       "address": "Нижний Новгород, Ильинская улица, 53",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.321102,
+      "lng": 43.989772,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 53
+      "sourceRow": 259
     },
     {
       "id": "parmarket-053",
@@ -3880,10 +3880,10 @@
       "address": "Нижний Новгород, ул. Пискунова, 21/2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.324102,
+      "lng": 44.007639,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 54
+      "sourceRow": 260
     },
     {
       "id": "parmarket-054",
@@ -3895,10 +3895,10 @@
       "address": "Нижний Новгород, ул. Большая Печёрская, 65",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.322694,
+      "lng": 44.033151,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 55
+      "sourceRow": 261
     },
     {
       "id": "parmarket-055",
@@ -3910,10 +3910,10 @@
       "address": "Нижний Новгород, ул. Большая Покровская, 82",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.308975,
+      "lng": 43.987292,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 56
+      "sourceRow": 262
     },
     {
       "id": "parmarket-056",
@@ -3925,10 +3925,10 @@
       "address": "Нижний Новгород, д. Крутая, ул. Счастливая, 147к1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.205696,
+      "lng": 44.087032,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 57
+      "sourceRow": 263
     },
     {
       "id": "parmarket-057",
@@ -3943,7 +3943,7 @@
       "lat": 56.313647,
       "lng": 44.027029,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 58
+      "sourceRow": 264
     },
     {
       "id": "parmarket-058",
@@ -3955,10 +3955,10 @@
       "address": "Нижний Новгород, ул. Максима Горького, 57",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.31247,
+      "lng": 43.986179,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 59
+      "sourceRow": 265
     },
     {
       "id": "parmarket-059",
@@ -3970,10 +3970,10 @@
       "address": "Нижний Новгород, с. Большая Ельня, ул. Балтийская, 6",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.212625,
+      "lng": 44.107864,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 60
+      "sourceRow": 266
     },
     {
       "id": "parmarket-060",
@@ -3985,10 +3985,10 @@
       "address": "Нижний Новгород, ул. Русская, 6",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.250027,
+      "lng": 44.044371,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 61
+      "sourceRow": 267
     },
     {
       "id": "parmarket-061",
@@ -4000,10 +4000,10 @@
       "address": "Нижний Новгород, ул. Бетанкура, 1 (ТРЦ «Седьмое небо»)",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.339402,
+      "lng": 43.956211,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 62
+      "sourceRow": 268
     },
     {
       "id": "parmarket-062",
@@ -4015,10 +4015,10 @@
       "address": "Нижний Новгород, пл. Ленина, 5A (ТЦ «Пирамида»)",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.326532,
+      "lng": 43.958492,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 63
+      "sourceRow": 269
     },
     {
       "id": "parmarket-063",
@@ -4030,10 +4030,10 @@
       "address": "Нижний Новгород, ул. Академическая, 10",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.281646,
+      "lng": 44.087823,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 64
+      "sourceRow": 270
     },
     {
       "id": "parmarket-064",
@@ -4045,10 +4045,10 @@
       "address": "Нижний Новгород, ул. Родионова, 15",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.319864,
+      "lng": 44.051756,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 65
+      "sourceRow": 271
     },
     {
       "id": "parmarket-065",
@@ -4060,10 +4060,10 @@
       "address": "Нижний Новгород, пр. Молодежный 33",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.242434,
+      "lng": 43.847353,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 66
+      "sourceRow": 272
     },
     {
       "id": "parmarket-066",
@@ -4075,10 +4075,10 @@
       "address": "Нижний Новгород, ул. Бурнаковская, 103а",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.342276,
+      "lng": 43.906669,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 67
+      "sourceRow": 273
     },
     {
       "id": "parmarket-067",
@@ -4090,10 +4090,10 @@
       "address": "Нижний Новгород, ул. Дьяконова, 11",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.261533,
+      "lng": 43.875794,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 68
+      "sourceRow": 274
     },
     {
       "id": "parmarket-068",
@@ -4105,10 +4105,10 @@
       "address": "Нижний Новгород, ул. Березовская, 81",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.326003,
+      "lng": 43.875569,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 69
+      "sourceRow": 275
     },
     {
       "id": "parmarket-069",
@@ -4120,100 +4120,100 @@
       "address": "Дзержинск, ул. Свердлова, 72",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.230327,
+      "lng": 43.391027,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 70
+      "sourceRow": 276
     },
     {
       "id": "parmarket-070",
       "network": "Пармаркет",
       "title": "Пармаркет — Кудьминская промышленная зона 1, 82 к3",
       "city": "",
-      "region": "",
+      "region": "Нижегородская область",
       "district": "",
       "address": "Нижегородская обл., Кудьминская промышленная зона 1, 82 к3",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.166641,
+      "lng": 43.89862,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 71
+      "sourceRow": 277
     },
     {
       "id": "parmarket-071",
       "network": "Пармаркет",
       "title": "Пармаркет — ул. Державинская, 10а",
-      "city": "",
-      "region": "",
+      "city": "Тамбов",
+      "region": "Тамбовская область",
       "district": "",
       "address": "Тамбов, ул. Державинская, 10а",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 52.723859,
+      "lng": 41.453666,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 72
+      "sourceRow": 278
     },
     {
       "id": "parmarket-072",
       "network": "Пармаркет",
       "title": "Пармаркет — ул. Магистральная, 35А/к2",
-      "city": "",
-      "region": "",
+      "city": "Тамбов",
+      "region": "Тамбовская область",
       "district": "",
       "address": "Тамбов, ул. Магистральная, 35А/к2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 52.761929,
+      "lng": 41.402049,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 73
+      "sourceRow": 279
     },
     {
       "id": "parmarket-073",
       "network": "Пармаркет",
       "title": "Пармаркет — ул. Московская, 90/1",
-      "city": "",
-      "region": "",
+      "city": "Тамбов",
+      "region": "Тамбовская область",
       "district": "",
       "address": "Тамбов, ул. Московская, 90/1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 52.730583,
+      "lng": 41.455858,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 74
+      "sourceRow": 280
     },
     {
       "id": "parmarket-074",
       "network": "Пармаркет",
       "title": "Пармаркет — ул. Октябрьская, 6",
-      "city": "",
-      "region": "",
+      "city": "Тамбов",
+      "region": "Тамбовская область",
       "district": "",
       "address": "Тамбов, ул. Октябрьская, 6",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 52.725484,
+      "lng": 41.450118,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 75
+      "sourceRow": 281
     },
     {
       "id": "parmarket-075",
       "network": "Пармаркет",
       "title": "Пармаркет — Бульвар Энтузиастов, 2А, ТЦ \"Улей",
-      "city": "",
-      "region": "",
+      "city": "Тамбов",
+      "region": "Тамбовская область",
       "district": "",
       "address": "Тамбов, Бульвар Энтузиастов, 2А, ТЦ \"Улей",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 52.75655,
+      "lng": 41.432753,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 76
+      "sourceRow": 282
     },
     {
       "id": "parmarket-076",
@@ -4225,10 +4225,10 @@
       "address": "Дзержинск, ул. Гайдара, 51а",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.23508,
+      "lng": 43.435188,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 77
+      "sourceRow": 283
     },
     {
       "id": "parmarket-077",
@@ -4240,10 +4240,10 @@
       "address": "д. Бурцево, ул. Алексеевка, 27Б",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.142124,
+      "lng": 43.725281,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 78
+      "sourceRow": 284
     },
     {
       "id": "parmarket-078",
@@ -4255,10 +4255,10 @@
       "address": "Дзержинск, пр. Циолковского, 78",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.227985,
+      "lng": 43.398995,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 79
+      "sourceRow": 285
     },
     {
       "id": "parmarket-079",
@@ -4270,10 +4270,10 @@
       "address": "Нижний Новгород, ул. Суздальская, 70",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.252727,
+      "lng": 43.939457,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 80
+      "sourceRow": 286
     },
     {
       "id": "parmarket-080",
@@ -4285,10 +4285,10 @@
       "address": "Нижний Новгород, пр. Ленина, 28",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.288631,
+      "lng": 43.931839,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 81
+      "sourceRow": 287
     },
     {
       "id": "parmarket-081",
@@ -4300,10 +4300,10 @@
       "address": "Дзержинск, ул. Гайдара, 51а",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 56.23508,
+      "lng": 43.435188,
       "sourceSheet": "Пармаркет",
-      "sourceRow": 82
+      "sourceRow": 288
     },
     {
       "id": "bunker-store-001",
@@ -4315,10 +4315,10 @@
       "address": "Саратов, ул. Танкистов, д. 64",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.561919,
+      "lng": 46.021411,
       "sourceSheet": "Bunker store",
-      "sourceRow": 2
+      "sourceRow": 289
     },
     {
       "id": "bunker-store-002",
@@ -4330,10 +4330,10 @@
       "address": "Саратов, 2-я Садовая ул., д. 4",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.517508,
+      "lng": 46.007711,
       "sourceSheet": "Bunker store",
-      "sourceRow": 3
+      "sourceRow": 290
     },
     {
       "id": "bunker-store-003",
@@ -4345,10 +4345,10 @@
       "address": "Саратов, ул. имени Н.И. Вавилова, д. 9",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.533428,
+      "lng": 46.014521,
       "sourceSheet": "Bunker store",
-      "sourceRow": 4
+      "sourceRow": 291
     },
     {
       "id": "bunker-store-004",
@@ -4360,10 +4360,10 @@
       "address": "Саратов, ул. имени В.И. Чапаева, д. 60/64",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.531579,
+      "lng": 46.020755,
       "sourceSheet": "Bunker store",
-      "sourceRow": 5
+      "sourceRow": 292
     },
     {
       "id": "bunker-store-005",
@@ -4375,10 +4375,10 @@
       "address": "Саратов, Огородная ул., д. 149",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.508506,
+      "lng": 45.937337,
       "sourceSheet": "Bunker store",
-      "sourceRow": 6
+      "sourceRow": 293
     },
     {
       "id": "bunker-store-006",
@@ -4390,10 +4390,10 @@
       "address": "Саратов, Техническая ул., д. 5",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.575876,
+      "lng": 46.012212,
       "sourceSheet": "Bunker store",
-      "sourceRow": 7
+      "sourceRow": 294
     },
     {
       "id": "bunker-store-007",
@@ -4405,10 +4405,10 @@
       "address": "Саратов, ул. имени С.Ф. Тархова, д. 27",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.610146,
+      "lng": 45.992269,
       "sourceSheet": "Bunker store",
-      "sourceRow": 8
+      "sourceRow": 295
     },
     {
       "id": "bunker-store-008",
@@ -4420,10 +4420,10 @@
       "address": "Саратов, Колхозная площадь, д. 1А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.547746,
+      "lng": 46.016775,
       "sourceSheet": "Bunker store",
-      "sourceRow": 9
+      "sourceRow": 296
     },
     {
       "id": "bunker-store-009",
@@ -4435,10 +4435,10 @@
       "address": "Саратов, ул. Рахова, д. 64/70А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.528161,
+      "lng": 46.012302,
       "sourceSheet": "Bunker store",
-      "sourceRow": 10
+      "sourceRow": 297
     },
     {
       "id": "bunker-store-010",
@@ -4450,10 +4450,10 @@
       "address": "Саратов, Ново-Астраханское шоссе, д. 107Гс1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.494338,
+      "lng": 45.920081,
       "sourceSheet": "Bunker store",
-      "sourceRow": 11
+      "sourceRow": 298
     },
     {
       "id": "bunker-store-011",
@@ -4465,10 +4465,10 @@
       "address": "Саратов, ул. имени А.М. Горького, д. 30",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.530677,
+      "lng": 46.029954,
       "sourceSheet": "Bunker store",
-      "sourceRow": 12
+      "sourceRow": 299
     },
     {
       "id": "bunker-store-012",
@@ -4480,10 +4480,10 @@
       "address": "Саратов, Вольская ул., д. 21/27",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.522641,
+      "lng": 46.018302,
       "sourceSheet": "Bunker store",
-      "sourceRow": 13
+      "sourceRow": 300
     },
     {
       "id": "bunker-store-013",
@@ -4495,10 +4495,10 @@
       "address": "Саратов, Ипподромная ул., д. 9",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.584405,
+      "lng": 45.978875,
       "sourceSheet": "Bunker store",
-      "sourceRow": 14
+      "sourceRow": 301
     },
     {
       "id": "bunker-store-014",
@@ -4510,10 +4510,10 @@
       "address": "Саратов, Вольская ул., д. 44",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.532649,
+      "lng": 46.024959,
       "sourceSheet": "Bunker store",
-      "sourceRow": 15
+      "sourceRow": 302
     },
     {
       "id": "bunker-store-015",
@@ -4525,10 +4525,10 @@
       "address": "Саратов, ул. Семёнова, д. 9",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.60142,
+      "lng": 46.017593,
       "sourceSheet": "Bunker store",
-      "sourceRow": 16
+      "sourceRow": 303
     },
     {
       "id": "bunker-store-016",
@@ -4540,10 +4540,10 @@
       "address": "Энгельс, Энгельс, пр-т Фридриха Энгельса, д. 4",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.480362,
+      "lng": 46.126469,
       "sourceSheet": "Bunker store",
-      "sourceRow": 17
+      "sourceRow": 304
     },
     {
       "id": "prohookstar-001",
@@ -4555,10 +4555,10 @@
       "address": "Саратов, Тульская 49д",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.477367,
+      "lng": 45.893347,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 2
+      "sourceRow": 305
     },
     {
       "id": "prohookstar-002",
@@ -4570,10 +4570,10 @@
       "address": "Саратов, 50 лет октября 89",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.574594,
+      "lng": 45.976387,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 3
+      "sourceRow": 306
     },
     {
       "id": "prohookstar-003",
@@ -4585,10 +4585,10 @@
       "address": "Саратов, 2-я садовая 99",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.531035,
+      "lng": 45.981516,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 4
+      "sourceRow": 307
     },
     {
       "id": "prohookstar-004",
@@ -4600,10 +4600,10 @@
       "address": "Саратов, Столыпина 13",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.530548,
+      "lng": 46.031032,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 5
+      "sourceRow": 308
     },
     {
       "id": "prohookstar-005",
@@ -4615,10 +4615,10 @@
       "address": "Саратов, Панченко 4/5",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.604844,
+      "lng": 46.016236,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 6
+      "sourceRow": 309
     },
     {
       "id": "prohookstar-006",
@@ -4630,10 +4630,10 @@
       "address": "Саратов, Энтузиастов 26",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.502743,
+      "lng": 45.943733,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 7
+      "sourceRow": 310
     },
     {
       "id": "prohookstar-007",
@@ -4645,10 +4645,10 @@
       "address": "Саратов, Менякина 4",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.576077,
+      "lng": 46.076235,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 8
+      "sourceRow": 311
     },
     {
       "id": "prohookstar-008",
@@ -4660,10 +4660,10 @@
       "address": "Саратов, Чапаева 45",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.52917,
+      "lng": 46.01868,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 9
+      "sourceRow": 312
     },
     {
       "id": "prohookstar-009",
@@ -4675,10 +4675,10 @@
       "address": "Саратов, Строителей 15",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.596134,
+      "lng": 45.967763,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 10
+      "sourceRow": 313
     },
     {
       "id": "prohookstar-010",
@@ -4690,10 +4690,10 @@
       "address": "Саратов, Гвардейская 26",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.588737,
+      "lng": 45.927591,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 11
+      "sourceRow": 314
     },
     {
       "id": "prohookstar-011",
@@ -4705,10 +4705,10 @@
       "address": "Саратов, Чернышевского 67",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.514767,
+      "lng": 46.000633,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 12
+      "sourceRow": 315
     },
     {
       "id": "prohookstar-012",
@@ -4720,10 +4720,10 @@
       "address": "Саратов, Жуковского 6",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.564355,
+      "lng": 46.022623,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 13
+      "sourceRow": 316
     },
     {
       "id": "prohookstar-013",
@@ -4735,10 +4735,10 @@
       "address": "Саратов, Азина 39",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.471634,
+      "lng": 45.915742,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 14
+      "sourceRow": 317
     },
     {
       "id": "prohookstar-014",
@@ -4750,10 +4750,10 @@
       "address": "Саратов, Крымская 9",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.489443,
+      "lng": 45.923908,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 15
+      "sourceRow": 318
     },
     {
       "id": "prohookstar-015",
@@ -4765,10 +4765,10 @@
       "address": "Саратов, Тархова 39",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.60957,
+      "lng": 46.013065,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 16
+      "sourceRow": 319
     },
     {
       "id": "prohookstar-016",
@@ -4780,10 +4780,10 @@
       "address": "Саратов, Антонова 33",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.602427,
+      "lng": 45.998486,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 17
+      "sourceRow": 320
     },
     {
       "id": "prohookstar-017",
@@ -4795,10 +4795,10 @@
       "address": "Саратов, Алексеевская 7б",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.560475,
+      "lng": 45.98935,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 18
+      "sourceRow": 321
     },
     {
       "id": "prohookstar-018",
@@ -4810,10 +4810,10 @@
       "address": "Саратов, Большая Казачья 103",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.536963,
+      "lng": 46.011296,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 19
+      "sourceRow": 322
     },
     {
       "id": "prohookstar-019",
@@ -4825,10 +4825,10 @@
       "address": "Саратов, Энтузиастов 54",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.49532,
+      "lng": 45.929765,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 20
+      "sourceRow": 323
     },
     {
       "id": "prohookstar-020",
@@ -4840,10 +4840,10 @@
       "address": "Саратов, Огородная 140а",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.50757,
+      "lng": 45.938676,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 21
+      "sourceRow": 324
     },
     {
       "id": "prohookstar-021",
@@ -4855,10 +4855,10 @@
       "address": "Саратов, Строителей 84а",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.614028,
+      "lng": 45.972515,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 22
+      "sourceRow": 325
     },
     {
       "id": "prohookstar-022",
@@ -4870,10 +4870,10 @@
       "address": "Саратов, Благодарова 2а/1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.596827,
+      "lng": 45.904504,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 23
+      "sourceRow": 326
     },
     {
       "id": "prohookstar-023",
@@ -4885,10 +4885,10 @@
       "address": "Саратов, Большая Горная 340а",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.549168,
+      "lng": 46.007532,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 24
+      "sourceRow": 327
     },
     {
       "id": "prohookstar-024",
@@ -4900,10 +4900,10 @@
       "address": "Саратов, Аткарская 66А",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.540615,
+      "lng": 46.001118,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 25
+      "sourceRow": 328
     },
     {
       "id": "prohookstar-025",
@@ -4915,10 +4915,10 @@
       "address": "Саратов, Чапаева 1/5",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.521834,
+      "lng": 46.014152,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 26
+      "sourceRow": 329
     },
     {
       "id": "prohookstar-026",
@@ -4930,10 +4930,10 @@
       "address": "Энгельс, Энгельс, Тельмана 6е",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.494905,
+      "lng": 46.11603,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 27
+      "sourceRow": 330
     },
     {
       "id": "prohookstar-027",
@@ -4945,10 +4945,10 @@
       "address": "Энгельс, Энгельс, Тельмана 29",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 51.481664,
+      "lng": 46.132398,
       "sourceSheet": "Prohookstar",
-      "sourceRow": 28
+      "sourceRow": 331
     },
     {
       "id": "vape-city-001",
@@ -4960,10 +4960,10 @@
       "address": "г. Москва ул. Совхозная улица, 41",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.674575,
+      "lng": 37.760234,
       "sourceSheet": "Vape City",
-      "sourceRow": 2
+      "sourceRow": 332
     },
     {
       "id": "vape-city-002",
@@ -4975,10 +4975,10 @@
       "address": "г. Москва ул. Зеленый проспект, д. 21/36",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.750945,
+      "lng": 37.783321,
       "sourceSheet": "Vape City",
-      "sourceRow": 3
+      "sourceRow": 333
     },
     {
       "id": "vape-city-003",
@@ -4990,10 +4990,10 @@
       "address": "г. Москва ул. Ленинградское шоссе, д. 8к2",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.755819,
+      "lng": 37.617644,
       "sourceSheet": "Vape City",
-      "sourceRow": 4
+      "sourceRow": 334
     },
     {
       "id": "vape-city-004",
@@ -5005,10 +5005,10 @@
       "address": "г. Москва ул. 9-я Парковая, д 32",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.795595,
+      "lng": 37.800092,
       "sourceSheet": "Vape City",
-      "sourceRow": 5
+      "sourceRow": 335
     },
     {
       "id": "vape-city-005",
@@ -5020,10 +5020,10 @@
       "address": "г. Москва ул. Новодмитровская, д. 2к1",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.804982,
+      "lng": 37.589913,
       "sourceSheet": "Vape City",
-      "sourceRow": 6
+      "sourceRow": 336
     },
     {
       "id": "vape-city-006",
@@ -5035,10 +5035,10 @@
       "address": "г. Москва ул. Бутырская 97(1)",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.800089,
+      "lng": 37.583805,
       "sourceSheet": "Vape City",
-      "sourceRow": 7
+      "sourceRow": 337
     },
     {
       "id": "vape-city-007",
@@ -5050,10 +5050,10 @@
       "address": "г. Москва ул. Бутырская 97(2)",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.800089,
+      "lng": 37.583805,
       "sourceSheet": "Vape City",
-      "sourceRow": 8
+      "sourceRow": 338
     },
     {
       "id": "vape-city-008",
@@ -5065,10 +5065,10 @@
       "address": "ул. Новый Арбат, 15",
       "hours": "",
       "comment": "",
-      "lat": null,
-      "lng": null,
+      "lat": 55.751933,
+      "lng": 37.593066,
       "sourceSheet": "Vape City",
-      "sourceRow": 9
+      "sourceRow": 339
     },
     {
       "id": "blacktab-001",
@@ -5083,7 +5083,7 @@
       "lat": 55.708629,
       "lng": 37.657132,
       "sourceSheet": "BlackTab",
-      "sourceRow": 2
+      "sourceRow": 340
     },
     {
       "id": "blacktab-002",
@@ -5098,7 +5098,7 @@
       "lat": 55.80166,
       "lng": 37.532135,
       "sourceSheet": "BlackTab",
-      "sourceRow": 3
+      "sourceRow": 341
     },
     {
       "id": "blacktab-003",
@@ -5113,7 +5113,7 @@
       "lat": 55.868272,
       "lng": 37.662956,
       "sourceSheet": "BlackTab",
-      "sourceRow": 4
+      "sourceRow": 342
     },
     {
       "id": "blacktab-004",
@@ -5128,7 +5128,7 @@
       "lat": 55.548529,
       "lng": 37.684551,
       "sourceSheet": "BlackTab",
-      "sourceRow": 5
+      "sourceRow": 343
     },
     {
       "id": "blacktab-005",
@@ -5143,7 +5143,7 @@
       "lat": 55.848792,
       "lng": 37.590635,
       "sourceSheet": "BlackTab",
-      "sourceRow": 6
+      "sourceRow": 344
     },
     {
       "id": "blacktab-006",
@@ -5158,7 +5158,7 @@
       "lat": 55.610703,
       "lng": 37.720987,
       "sourceSheet": "BlackTab",
-      "sourceRow": 7
+      "sourceRow": 345
     },
     {
       "id": "blacktab-007",
@@ -5170,10 +5170,10 @@
       "address": "г. Москва, ул. Широкая, 12",
       "hours": "Круглосуточно",
       "comment": "",
-      "lat": 55.886426,
-      "lng": 37.0,
+      "lat": 55.886731,
+      "lng": 37.65947,
       "sourceSheet": "BlackTab",
-      "sourceRow": 8
+      "sourceRow": 346
     },
     {
       "id": "blacktab-008",
@@ -5188,7 +5188,7 @@
       "lat": 55.727078,
       "lng": 37.750524,
       "sourceSheet": "BlackTab",
-      "sourceRow": 9
+      "sourceRow": 347
     },
     {
       "id": "blacktab-009",
@@ -5203,7 +5203,7 @@
       "lat": 55.81132,
       "lng": 37.797917,
       "sourceSheet": "BlackTab",
-      "sourceRow": 10
+      "sourceRow": 348
     },
     {
       "id": "blacktab-010",
@@ -5218,7 +5218,7 @@
       "lat": 55.66396,
       "lng": 37.482244,
       "sourceSheet": "BlackTab",
-      "sourceRow": 11
+      "sourceRow": 349
     },
     {
       "id": "blacktab-011",
@@ -5233,7 +5233,7 @@
       "lat": 55.752018,
       "lng": 37.716545,
       "sourceSheet": "BlackTab",
-      "sourceRow": 12
+      "sourceRow": 350
     },
     {
       "id": "blacktab-012",
@@ -5248,7 +5248,7 @@
       "lat": 55.758706,
       "lng": 37.408869,
       "sourceSheet": "BlackTab",
-      "sourceRow": 13
+      "sourceRow": 351
     },
     {
       "id": "blacktab-013",
@@ -5263,7 +5263,7 @@
       "lat": 55.793509,
       "lng": 37.613505,
       "sourceSheet": "BlackTab",
-      "sourceRow": 14
+      "sourceRow": 352
     },
     {
       "id": "blacktab-014",
@@ -5278,7 +5278,7 @@
       "lat": 55.728084,
       "lng": 37.579986,
       "sourceSheet": "BlackTab",
-      "sourceRow": 15
+      "sourceRow": 353
     },
     {
       "id": "blacktab-015",
@@ -5293,7 +5293,7 @@
       "lat": 55.865913,
       "lng": 37.125213,
       "sourceSheet": "BlackTab",
-      "sourceRow": 16
+      "sourceRow": 354
     },
     {
       "id": "blacktab-016",
@@ -5308,7 +5308,7 @@
       "lat": 55.614519,
       "lng": 37.742857,
       "sourceSheet": "BlackTab",
-      "sourceRow": 17
+      "sourceRow": 355
     },
     {
       "id": "blacktab-017",
@@ -5323,7 +5323,7 @@
       "lat": 54.191867,
       "lng": 37.615752,
       "sourceSheet": "BlackTab",
-      "sourceRow": 18
+      "sourceRow": 356
     },
     {
       "id": "blacktab-018",
@@ -5338,7 +5338,7 @@
       "lat": 55.648662,
       "lng": 37.743777,
       "sourceSheet": "BlackTab",
-      "sourceRow": 19
+      "sourceRow": 357
     },
     {
       "id": "blacktab-019",
@@ -5353,7 +5353,7 @@
       "lat": 55.805741,
       "lng": 37.515916,
       "sourceSheet": "BlackTab",
-      "sourceRow": 20
+      "sourceRow": 358
     },
     {
       "id": "blacktab-020",
@@ -5368,7 +5368,7 @@
       "lat": 55.751837,
       "lng": 37.818634,
       "sourceSheet": "BlackTab",
-      "sourceRow": 21
+      "sourceRow": 359
     },
     {
       "id": "blacktab-021",
@@ -5383,7 +5383,7 @@
       "lat": 55.870213,
       "lng": 37.663491,
       "sourceSheet": "BlackTab",
-      "sourceRow": 22
+      "sourceRow": 360
     },
     {
       "id": "blacktab-022",
@@ -5398,7 +5398,7 @@
       "lat": 55.916031,
       "lng": 37.759003,
       "sourceSheet": "BlackTab",
-      "sourceRow": 23
+      "sourceRow": 361
     },
     {
       "id": "blacktab-023",
@@ -5413,7 +5413,7 @@
       "lat": 55.758706,
       "lng": 37.408869,
       "sourceSheet": "BlackTab",
-      "sourceRow": 24
+      "sourceRow": 362
     },
     {
       "id": "dym-par-001",
@@ -5425,10 +5425,10 @@
       "address": "г. Москва, Ленинский проспект 109",
       "hours": "",
       "comment": "Табачный Остров «Дым Пар» РИО Ленинский Находится на -1 этаже, около островка милти, вход через подземную парковку",
-      "lat": null,
-      "lng": null,
+      "lat": 55.663705,
+      "lng": 37.511149,
       "sourceSheet": "Дым Пар",
-      "sourceRow": 2
+      "sourceRow": 363
     },
     {
       "id": "dym-par-002",
@@ -5440,10 +5440,10 @@
       "address": "г. Москва, Проспект мира 211 к2",
       "hours": "",
       "comment": "Табачный остров «Дым Пар» ТРК Европолис 1 этаж (рядом с магазинов Технопарк и XiaoMi) C сектор на подземной парковке, рядом со входом в магазин HOFF Бесплатна подземная парковка",
-      "lat": null,
-      "lng": null,
+      "lat": 55.845855,
+      "lng": 37.662093,
       "sourceSheet": "Дым Пар",
-      "sourceRow": 3
+      "sourceRow": 364
     },
     {
       "id": "dym-par-003",
@@ -5455,10 +5455,10 @@
       "address": "Московская область, г. Красногорск, Международная улица, 12",
       "hours": "",
       "comment": "Табачный остров «Дым Пар» Вегас Крокус,рядом находятся магазин Incanto,и стокман",
-      "lat": null,
-      "lng": null,
+      "lat": 55.820936,
+      "lng": 37.387738,
       "sourceSheet": "Дым Пар",
-      "sourceRow": 4
+      "sourceRow": 365
     },
     {
       "id": "dym-par-004",
@@ -5470,10 +5470,10 @@
       "address": "Московская область, г. Пушкино, Красноармейское шоссе 104",
       "hours": "",
       "comment": "Табачный остров «Дым Пар» ТРЦ Пушкино Парк находится на 1 этаже около главного входа, между магазинами МТС, и Ригла",
-      "lat": null,
-      "lng": null,
+      "lat": 56.017085,
+      "lng": 37.885369,
       "sourceSheet": "Дым Пар",
-      "sourceRow": 5
+      "sourceRow": 366
     },
     {
       "id": "dym-par-005",
@@ -5485,10 +5485,10 @@
       "address": "г. Москва, Дмитровское шоссе 163А",
       "hours": "",
       "comment": "Табачный остров «Дым Пар» ТРЦ РИО Дмитровка Бесплатная наземная парковка, находится на 1 этаже около входа Б, рядом с магазином Sunlight",
-      "lat": null,
-      "lng": null,
+      "lat": 55.911527,
+      "lng": 37.542608,
       "sourceSheet": "Дым Пар",
-      "sourceRow": 6
+      "sourceRow": 367
     },
     {
       "id": "dym-par-006",
@@ -5500,10 +5500,10 @@
       "address": "г. Москва, 23-й км Киевское шоссе, д. 1",
       "hours": "",
       "comment": "Табачный остров Дым Пар ТРЦ Саларис находится на 1 этаже между магазинами Ralf Ringer и Mascotte, вход со стороны киевского шоссе",
-      "lat": null,
-      "lng": null,
+      "lat": 55.623788,
+      "lng": 37.422036,
       "sourceSheet": "Дым Пар",
-      "sourceRow": 7
+      "sourceRow": 368
     },
     {
       "id": "dym-par-007",
@@ -5515,10 +5515,10 @@
       "address": "Московская область, г. Мытищи, Шараповский пр., вл 2",
       "hours": "",
       "comment": "Табачный остров «Дым Пар» Трц Красный Кит находится на 1 этаже рядом со стойкой информации, около магазинов Рив Гош и Gloria Jeans",
-      "lat": null,
-      "lng": null,
+      "lat": 55.916678,
+      "lng": 37.759264,
       "sourceSheet": "Дым Пар",
-      "sourceRow": 8
+      "sourceRow": 369
     },
     {
       "id": "dym-par-008",
@@ -5530,10 +5530,10 @@
       "address": "г. Москва, Головинское ш., 5к1",
       "hours": "",
       "comment": "Табачный остров «Дым Пар» тц Водный находится на 1 этаже около главного входа между магазинов Sunlight и Летуаль",
-      "lat": null,
-      "lng": null,
+      "lat": 55.840245,
+      "lng": 37.492024,
       "sourceSheet": "Дым Пар",
-      "sourceRow": 9
+      "sourceRow": 370
     },
     {
       "id": "dym-par-009",
@@ -5545,10 +5545,10 @@
       "address": "Московская область, г. Котельники, 1-й Покровский пр-д, д. 5",
       "hours": "",
       "comment": "Табачный остров \"Дым Пар\" ТРЦ МЕГА Белая дача, около Ашана и Gloria Jeans",
-      "lat": null,
-      "lng": null,
+      "lat": 55.654213,
+      "lng": 37.843768,
       "sourceSheet": "Дым Пар",
-      "sourceRow": 10
+      "sourceRow": 371
     },
     {
       "id": "dym-par-010",
@@ -5560,10 +5560,10 @@
       "address": "г. Москва, Кировоградская ул.,13А",
       "hours": "",
       "comment": "Табачный остров \"Дым Пар\" ТРЦ Коламбус, напротив оптики «Айкрафт» и ЭКО Восток, рядом с супермаркетом Окей",
-      "lat": null,
-      "lng": null,
+      "lat": 55.612146,
+      "lng": 37.606999,
       "sourceSheet": "Дым Пар",
-      "sourceRow": 11
+      "sourceRow": 372
     },
     {
       "id": "dym-par-011",
@@ -5575,10 +5575,250 @@
       "address": "г. Москва, Ленинградское шоссе 16Ас4",
       "hours": "",
       "comment": "Торговый центр Метрополис,1 этаж,вход со стороны перекрестка,магазин Дым Пар,напротив перекрестка",
-      "lat": null,
-      "lng": null,
+      "lat": 55.823216,
+      "lng": 37.497468,
       "sourceSheet": "Дым Пар",
-      "sourceRow": 12
+      "sourceRow": 373
+    },
+    {
+      "id": "tabakerka-001",
+      "network": "ТАБАКЕРКА",
+      "title": "ТАБАКЕРКА — г. Москва, Ул. Алексеевская, 27А",
+      "city": "Москва",
+      "region": "Москва",
+      "district": "",
+      "address": "г. Москва, Ул. Алексеевская, 27А",
+      "hours": "",
+      "comment": "",
+      "lat": 55.810977,
+      "lng": 37.651232,
+      "sourceSheet": "ТАБАКЕРКА",
+      "sourceRow": 374
+    },
+    {
+      "id": "tabakerka-002",
+      "network": "ТАБАКЕРКА",
+      "title": "ТАБАКЕРКА — г. Москва, Ул. Бекетова, 6А",
+      "city": "Москва",
+      "region": "Москва",
+      "district": "",
+      "address": "г. Москва, Ул. Бекетова, 6А",
+      "hours": "",
+      "comment": "",
+      "lat": 55.433818,
+      "lng": 37.177622,
+      "sourceSheet": "ТАБАКЕРКА",
+      "sourceRow": 375
+    },
+    {
+      "id": "tabakerka-003",
+      "network": "ТАБАКЕРКА",
+      "title": "ТАБАКЕРКА — г. Москва, Проспект Гагарина, 180",
+      "city": "Москва",
+      "region": "Москва",
+      "district": "",
+      "address": "г. Москва, Проспект Гагарина, 180",
+      "hours": "",
+      "comment": "",
+      "lat": 55.689908,
+      "lng": 37.91239,
+      "sourceSheet": "ТАБАКЕРКА",
+      "sourceRow": 376
+    },
+    {
+      "id": "tabakerka-004",
+      "network": "ТАБАКЕРКА",
+      "title": "ТАБАКЕРКА — г. Москва, Ул. Академика Сахарова, 115",
+      "city": "Москва",
+      "region": "Москва",
+      "district": "",
+      "address": "г. Москва, Ул. Академика Сахарова, 115",
+      "hours": "",
+      "comment": "",
+      "lat": 55.769008,
+      "lng": 37.641512,
+      "sourceSheet": "ТАБАКЕРКА",
+      "sourceRow": 377
+    },
+    {
+      "id": "tabakerka-005",
+      "network": "ТАБАКЕРКА",
+      "title": "ТАБАКЕРКА — г. Москва, Проспект Ленина, 33",
+      "city": "Москва",
+      "region": "Москва",
+      "district": "",
+      "address": "г. Москва, Проспект Ленина, 33",
+      "hours": "",
+      "comment": "",
+      "lat": 55.797372,
+      "lng": 37.940822,
+      "sourceSheet": "ТАБАКЕРКА",
+      "sourceRow": 378
+    },
+    {
+      "id": "tabakerka-006",
+      "network": "ТАБАКЕРКА",
+      "title": "ТАБАКЕРКА — г. Москва, Ул. Горная, 11",
+      "city": "Москва",
+      "region": "Москва",
+      "district": "",
+      "address": "г. Москва, Ул. Горная, 11",
+      "hours": "",
+      "comment": "",
+      "lat": 55.599194,
+      "lng": 37.22067,
+      "sourceSheet": "ТАБАКЕРКА",
+      "sourceRow": 379
+    },
+    {
+      "id": "tabakerka-007",
+      "network": "ТАБАКЕРКА",
+      "title": "ТАБАКЕРКА — г. Москва, Ул. Родионова, 189/24",
+      "city": "Москва",
+      "region": "Москва",
+      "district": "",
+      "address": "г. Москва, Ул. Родионова, 189/24",
+      "hours": "",
+      "comment": "",
+      "lat": 55.371352,
+      "lng": 37.34346,
+      "sourceSheet": "ТАБАКЕРКА",
+      "sourceRow": 380
+    },
+    {
+      "id": "tabakerka-008",
+      "network": "ТАБАКЕРКА",
+      "title": "ТАБАКЕРКА — г. Москва,  Ул. Плотникова, 4",
+      "city": "Москва",
+      "region": "Москва",
+      "district": "",
+      "address": "г. Москва,  Ул. Плотникова, 4",
+      "hours": "",
+      "comment": "",
+      "lat": 55.755819,
+      "lng": 37.617644,
+      "sourceSheet": "ТАБАКЕРКА",
+      "sourceRow": 381
+    },
+    {
+      "id": "tabakerka-009",
+      "network": "ТАБАКЕРКА",
+      "title": "ТАБАКЕРКА — г. Москва, Ул. Белинского, 83",
+      "city": "Москва",
+      "region": "Москва",
+      "district": "",
+      "address": "г. Москва, Ул. Белинского, 83",
+      "hours": "",
+      "comment": "",
+      "lat": 55.757182,
+      "lng": 37.610476,
+      "sourceSheet": "ТАБАКЕРКА",
+      "sourceRow": 382
+    },
+    {
+      "id": "tabakerka-010",
+      "network": "ТАБАКЕРКА",
+      "title": "ТАБАКЕРКА — г. Москва, Ул. Верхне-Печёрская , 7Б",
+      "city": "Москва",
+      "region": "Москва",
+      "district": "",
+      "address": "г. Москва, Ул. Верхне-Печёрская , 7Б",
+      "hours": "",
+      "comment": "",
+      "lat": 55.755819,
+      "lng": 37.617644,
+      "sourceSheet": "ТАБАКЕРКА",
+      "sourceRow": 383
+    },
+    {
+      "id": "tabakerka-011",
+      "network": "ТАБАКЕРКА",
+      "title": "ТАБАКЕРКА — г. Москва, Ул. Культуры, 14",
+      "city": "Москва",
+      "region": "Москва",
+      "district": "",
+      "address": "г. Москва, Ул. Культуры, 14",
+      "hours": "",
+      "comment": "",
+      "lat": 55.755819,
+      "lng": 37.617644,
+      "sourceSheet": "ТАБАКЕРКА",
+      "sourceRow": 384
+    },
+    {
+      "id": "tabakerka-012",
+      "network": "ТАБАКЕРКА",
+      "title": "ТАБАКЕРКА — г. Москва, Ул. Лескова, 12",
+      "city": "Москва",
+      "region": "Москва",
+      "district": "",
+      "address": "г. Москва, Ул. Лескова, 12",
+      "hours": "",
+      "comment": "",
+      "lat": 55.897397,
+      "lng": 37.602732,
+      "sourceSheet": "ТАБАКЕРКА",
+      "sourceRow": 385
+    },
+    {
+      "id": "tabakerka-013",
+      "network": "ТАБАКЕРКА",
+      "title": "ТАБАКЕРКА — г. Москва, Ул. Тимирязева, 9, корп. 2",
+      "city": "Москва",
+      "region": "Москва",
+      "district": "",
+      "address": "г. Москва, Ул. Тимирязева, 9, корп. 2",
+      "hours": "",
+      "comment": "",
+      "lat": 55.49621,
+      "lng": 37.537038,
+      "sourceSheet": "ТАБАКЕРКА",
+      "sourceRow": 386
+    },
+    {
+      "id": "tabakerka-014",
+      "network": "ТАБАКЕРКА",
+      "title": "ТАБАКЕРКА — г. Москва,  Ул.  Маршала Рокоссовского, 19",
+      "city": "Москва",
+      "region": "Москва",
+      "district": "",
+      "address": "г. Москва,  Ул.  Маршала Рокоссовского, 19",
+      "hours": "",
+      "comment": "",
+      "lat": 55.81474,
+      "lng": 37.73429,
+      "sourceSheet": "ТАБАКЕРКА",
+      "sourceRow": 387
+    },
+    {
+      "id": "tabakerka-015",
+      "network": "ТАБАКЕРКА",
+      "title": "ТАБАКЕРКА — г. Москва, Южное шоссе, 16А",
+      "city": "Москва",
+      "region": "Москва",
+      "district": "",
+      "address": "г. Москва, Южное шоссе, 16А",
+      "hours": "",
+      "comment": "",
+      "lat": 55.755819,
+      "lng": 37.617644,
+      "sourceSheet": "ТАБАКЕРКА",
+      "sourceRow": 388
+    },
+    {
+      "id": "tabakerka-016",
+      "network": "ТАБАКЕРКА",
+      "title": "ТАБАКЕРКА — г. Москва, Ул Чкалова, 1В",
+      "city": "Москва",
+      "region": "Москва",
+      "district": "",
+      "address": "г. Москва, Ул Чкалова, 1В",
+      "hours": "",
+      "comment": "",
+      "lat": 55.904735,
+      "lng": 37.563287,
+      "sourceSheet": "ТАБАКЕРКА",
+      "sourceRow": 389
     }
   ]
 }
